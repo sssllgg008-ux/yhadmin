@@ -1,122 +1,162 @@
-# Solon H-Spi 插件热插�?演示项目
+# Solon 插件热拔插管理系统
 
-演示 Solon 框架�?**H-Spi（插件热插拔�?*：不重启主应用，动�?插上 / 拔下"业务插件�?参考官方文档：<https://solon.noear.org/article/273>
+本项目基于 Solon H-Spi 构建插件热拔插平台。宿主负责插件上传、注册、启动、停止、卸载和可恢复移除；`pluginSystem` 提供统一认证、权限、多租户、审计、套餐、配额、限流及备份能力。
 
----
+Solon H-Spi 参考文档：<https://solon.noear.org/article/273>
 
-## 一、什么是 H-Spi
+## 项目能力
 
-把主程序想象�?*正在直播、不能关机的电脑**�?
-- **普�?Spi**：像内置硬盘，要换功能得关机重启应用�?- **H-Spi（热插拔�?*：像 **USB �?*，直播过程中直接插上 / 拔下，业务不中断�?
-核心价值：**生产环境不停机，动态加功能 / 换功�?/ 撤功能�?*
+- 插件无需重启宿主即可启动、停止和卸载。
+- 插件路径和状态由宿主动态管理，不依赖 `app.yml` 中的 `solon.hotplug` 静态配置。
+- `pluginSystem` 保持为 Solon `Plugin` 组件，是系统唯一主权限插件。
+- 身份认证和会话统一使用 Sa-Token，Redis 持久化登录状态。
+- 持久层使用 MyBatis-Plus，租户数据由公共 `TenantContext` 强制隔离。
+- 业务插件通过 `permission-api` 使用权限、数据范围和审计能力。
+- 权限插件停止时宿主故障关闭，普通受保护接口返回 503。
+- 支持租户生命周期、套餐版本、订阅、配额、限流、用量和数据库备份恢复。
 
----
+## 项目结构
 
-## 二、项目结�?
-```
+```text
 pj/
-├── pom.xml                                主程序（�?solon-hotplug�?├── src/main/java/com/example/main/
-�?  └── DemoApp.java                       主程�?+ 热管理路�?├── src/main/resources/app.yml             Solon 配置（含 solon.hotplug�?├── plugin-demo/                            独立插件模块（打包成 jar 后被热加载）
-�?  ├── pom.xml                             插件依赖（solon-web�?�?  ├── src/main/java/com/example/add1/    （包名与主程�?hotplugin.main 隔离�?�?  �?  └── DemoPlugin.java                Plugin 实现，start 注册 / stop 清理
-�?  └── src/main/resources/META-INF/solon/plugin   SPI 声明：com.example.add1.DemoPlugin
-└── README.md
+├─ pom.xml                         Solon 宿主 Maven 配置
+├─ permission-api/                 插件共享的安全与多租户 API
+├─ plugin-system/                  核心权限与 SaaS 管理插件
+├─ plugin-demo/                    热拔插示例插件
+├─ plugins/                        宿主管理的运行时插件目录
+├─ src/main/                       Solon 宿主程序源码
+├─ yhaminweb/                      Vue 3 管理端
+├─ PLUGIN-DEVELOPMENT-STANDARD.md  插件开发统一规范
+└─ security_best_practices_report.md
 ```
 
-- **主程�?*（包 `hotplugin.main`）：提供 `/start`、`/stop`、`/unload` 三个热管理路由；启动后自�?`PluginManager.load("plugin-demo").start()`�?- **插件**（包 `hotplugin.add1`）：独立 jar，提�?`/plugin/hi` 接口；停止时自动清理�?
-> 官方要求�?*插件包名需独立**（主程序 `xxx.main`，插�?`xxx.add1`）；依赖包公共的放主程序，隔离的放插件�?
----
+## 核心组件
 
-## 三、核心代�?
-### 1. 主程序（DemoApp.java�?
+### 宿主程序
+
+宿主负责插件元数据和运行状态管理、插件管理接口、安全过滤、公共 Provider Registry，以及核心权限插件停止期间的受控维护通道。
+
+### pluginSystem
+
+`pluginSystem` 启动顺序：
+
+1. 检查 Redis 并初始化 Sa-Token。
+2. 初始化数据源、MyBatis-Plus 和租户拦截器。
+3. 注册权限、数据范围、审计和租户配额 Provider。
+4. 注册认证、系统管理和 SaaS 管理路由。
+
+停止时按相反顺序注销外部资源，并保留 Redis 中的有效登录关系。正常热重载后，原 Token 可以恢复会话。
+
+### permission-api
+
+业务插件不得自行解析 Token、查询系统权限表或维护权限缓存。应通过公共 API 获取可信身份：
+
 ```java
-package hotplugin.main;
+SecurityPrincipal principal = PluginSecurity.requirePermission(
+        context, "warehouse:datasource:list");
 
-import org.noear.solon.Solon;
-import org.noear.solon.hotplug.PluginManager;
-
-public class DemoApp {
-    public static void main(String[] args) {
-        Solon.start(DemoApp.class, args, app -> {
-            app.router().get("start",  ctx -> { PluginManager.start("plugin-demo");  ctx.output("OK"); });
-            app.router().get("stop",   ctx -> { PluginManager.stop("plugin-demo");   ctx.output("OK"); });
-            app.router().get("unload", ctx -> { PluginManager.unload("plugin-demo"); ctx.output("OK"); });
-        });
-
-        // 启动后自动加载并启动插件（依�?app.yml �?solon.hotplug.plugin-demo 配置�?        PluginManager.load("plugin-demo").start();
-    }
-}
+long tenantId = principal.getTenantId();
+long userId = principal.getUserId();
 ```
 
-### 2. 插件（DemoPlugin.java�?
-```java
-package hotplugin.add1;
+详细要求见 [插件开发统一规范](PLUGIN-DEVELOPMENT-STANDARD.md)。
 
-import org.noear.solon.Solon;
-import org.noear.solon.core.AppContext;
-import org.noear.solon.core.Plugin;
-import org.noear.solon.core.handle.Context;
-import org.noear.solon.core.handle.Handler;
+## 环境要求
 
-public class DemoPlugin implements Plugin {
-    public void start(AppContext context) {
-        Solon.app().router().add("/plugin/hi", ctx ->
-                ctx.output("你好，我是由热插拔插件提供的接口�?));
-    }
+- JDK 17（项目字节码目标为 Java 8）
+- Maven 3.6+
+- Node.js 20+
+- MySQL
+- Redis
 
-    public void stop() throws Throwable {
-        // 移除 HTTP 处理 —�?拔下时必须清理，否则无法热更�?        Solon.app().router().remove("/plugin/hi");
-    }
-}
+## 构建与运行
+
+### 安装公共 API
+
+```bash
+cd permission-api
+mvn clean install
 ```
 
-### 3. 插件 SPI 声明
+### 构建前端
 
-`plugin-demo/src/main/resources/META-INF/solon/plugin`�?
-```
-hotplugin.add1.DemoPlugin
-```
-
-### 4. 随应用自动热加载（app.yml�?
-> **注释�?= 不加载；取消注释 = 启动时自动加载并启动**。主程序通过 `PluginManager.getPlugins()` 判断该插件是否已登记，仅在已登记时才会自�?`load().start()`，避免未配置时抛 `Addin does not exist`�?
-```yaml
-solon.hotplug:
-  # 取消下面这行注释后，主程序启动时会自动加载并启动该插�?  plugin-demo: "D:/work/pj/plugin-demo/target/plugin-demo-1.0.0.jar"
+```bash
+cd ../yhaminweb
+npm install
+npm run build
 ```
 
----
+### 构建宿主
 
-## 四、运行步�?
-### 步骤 1：打包插�?```bash
-cd plugin-demo
-mvn clean package   # 生成 target/plugin-demo-1.0.0.jar
-```
-
-### 步骤 2：启动主程序
 ```bash
 cd ..
 mvn clean package
-java -jar target/demo-1.0.0.jar
 ```
-> Java 9+ 可能需要：
-> `java --add-opens java.base/java.lang=ALL-UNNAMED -jar target/demo-1.0.0.jar`
 
-### 步骤 3：访问插件接口（需先配�?app.yml 启用自动加载，或手动加载�?```bash
-curl http://localhost:8080/plugin/hi
-# 你好，我是由热插拔插件提供的接口�?```
+### 构建插件
 
-### 步骤 4：热管理（不重启主程序）
 ```bash
-curl http://localhost:8080/stop     # OK —�?停止插件（清理路由）
-curl http://localhost:8080/start    # OK —�?重新启动（自动加�?+ 启动�?curl http://localhost:8080/unload   # OK —�?卸载插件 jar
+cd plugin-system
+mvn clean package
+
+cd ../plugin-demo
+mvn clean package
 ```
-停止后再访问 `/plugin/hi` �?404，主程序一直正常运行�?
----
 
-## 五、注意事�?
-1. **资源必须配对清理**：插�?`start()` 时加到公共空间的资源，必须在 `stop()` 里移除，否则无法干净地热更新�?2. **包名隔离**：主程序与插件包名需独立（如 `xxx.main` / `xxx.add1`）；公共依赖放主程序，隔离依赖放插件�?3. **ClassLoader 隔离**：每个插件包独享 ClassLoader、AopContext、配置�?4. **弱类型通信**：插件与主程序用 `Solon.context().getBean()` / `Solon.cfg()`；建议结�?DamiBus�?5. **Java 9+ 模块限制**：可能需�?`--add-opens java.base/java.lang=ALL-UNNAMED`�?
----
+插件构建完成后，通过“插件热拔插管理”页面上传、注册和启动。宿主不会从 `app.yml` 静态加载插件路径。
 
-## 六、适用场景
+## 插件生命周期规范
 
-- 生产环境不停机增减功能模�?- 插件化平�?/ 多租户功能按需加载
-- 灰度发布某个能力（热插上验证，有问题热拔下）
+插件在 `start()` 中注册到宿主公共空间的资源，必须在 `stop()` 中逐项、逆序清理：
+
+- HTTP 路由
+- DamiBus 监听器
+- Provider 和 Registry
+- 定时任务及线程池
+- Redis、数据库连接池和其他客户端
+- 租户线程上下文
+
+资源未正确清理可能造成重复路由、类加载器泄漏或插件无法移除。
+
+## 权限与多租户约定
+
+- 所有受保护接口使用 `Authorization: Bearer <token>`。
+- 401：Token 无效。
+- 403：权限不足。
+- 409：生命周期、订阅或配额冲突。
+- 429：租户请求超出限流额度。
+- 503：权限插件或关键存储不可用。
+- 租户 ID、用户 ID 和用户名必须来自可信的 `SecurityPrincipal`。
+- 业务接口不得把前端提交的 `tenantId` 作为最终隔离依据。
+- 缺少租户上下文时，租户表访问必须故障关闭。
+
+## SaaS 能力
+
+- 租户创建、初始化、启停、管理员密码重置和删除生命周期。
+- 套餐草稿、复制、发布、版本比较、停用和归档。
+- 订阅立即变更、到期变更、待生效取消和历史记录。
+- 配额目录、套餐限制、租户覆盖值和当前用量。
+- 租户级分钟/每日请求限流及路由策略。
+- 租户数据库备份、鉴权下载、恢复和失败补偿。
+
+## 开发命令
+
+```bash
+# pluginSystem 测试，不生成插件包
+cd plugin-system
+mvn test
+
+# 前端开发
+cd ../yhaminweb
+npm run dev
+
+# 前端生产构建
+npm run build
+```
+
+## 编码与安全规范
+
+- 源码、配置和 Markdown 文件统一使用 UTF-8。
+- 文本文件统一使用 LF 换行，Windows 批处理文件使用 CRLF。
+- 禁止将数据库密码、Redis 密码、Token、私钥或运行时插件包提交到 Git。
+- 插件发布由管理员通过插件管理页面完成，源码构建过程不得自动上传或替换运行中的插件。
