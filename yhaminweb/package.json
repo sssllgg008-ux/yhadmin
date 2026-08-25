@@ -1,0 +1,44 @@
+{
+  "name": "yhaminweb",
+  "version": "1.0.0",
+  "private": true,
+  "description": "权限管理后台前端 - Vue3 + Element Plus",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173",
+    "lint": "eslint . --ext .vue,.js,.jsx --fix"
+  },
+  "dependencies": {
+    "@antv/g6": "^4.8.0",
+    "@element-plus/icons-vue": "^2.3.1",
+    "@tinyflow-ai/ui": "^1.3.6",
+    "@vueuse/core": "^10.11.0",
+    "axios": "^1.7.7",
+    "dompurify": "3.2.6",
+    "element-plus": "^2.8.4",
+    "js-cookie": "^3.0.5",
+    "katex": "0.16.22",
+    "markdown-it": "14.1.0",
+    "markdown-it-texmath": "1.0.0",
+    "nprogress": "^0.2.0",
+    "path-to-regexp": "^6.2.2",
+    "pinia": "^2.2.2",
+    "pinia-plugin-persistedstate": "^3.2.1",
+    "vue": "^3.4.38",
+    "vue-router": "^4.4.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "sass": "^1.77.8",
+    "unplugin-auto-import": "^0.18.2",
+    "unplugin-vue-components": "^0.27.4",
+    "vite": "^5.4.2",
+    "vite-plugin-compression": "^0.5.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "packageManager": "pnpm@11.3.0+sha512.2c403d6594527287672b1f7056343a1f7c3634036a67ffabfcc2b3d7595d843768f8787148d1b57cf7956c90606bbd192857c363af19e96d2d0ec9ec5741d215"
+}

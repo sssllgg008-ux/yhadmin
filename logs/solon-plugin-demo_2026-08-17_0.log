@@ -1,0 +1,420 @@
+INFO  2026-08-17 19:57:36.982 #8004 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 19:57:37.297 #8004 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 19:57:37.298 #8004 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @159ms
+INFO  2026-08-17 19:57:37.298 #8004 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=469ms pid=8004 v=4.0.6
+INFO  2026-08-17 19:57:50.022 #8004 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 19:57:50.024 #8004 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 19:57:51.006 #21420 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 19:57:51.301 #21420 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 19:57:51.302 #21420 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @154ms
+INFO  2026-08-17 19:57:51.302 #21420 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=459ms pid=21420 v=4.0.6
+INFO  2026-08-17 19:58:04.834 #21420 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 19:58:04.836 #21420 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 19:58:05.909 #11520 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 19:58:06.183 #11520 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 19:58:06.184 #11520 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @141ms
+INFO  2026-08-17 19:58:06.184 #11520 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=436ms pid=11520 v=4.0.6
+INFO  2026-08-17 19:58:29.203 #11520 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 19:58:29.205 #11520 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 19:58:30.243 #10192 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 19:58:30.537 #10192 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 19:58:30.537 #10192 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @149ms
+INFO  2026-08-17 19:58:30.538 #10192 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=466ms pid=10192 v=4.0.6
+INFO  2026-08-17 20:04:08.319 #10192 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 20:04:08.321 #10192 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 20:04:10.617 #14860 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 20:04:10.918 #14860 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 20:04:10.918 #14860 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @149ms
+INFO  2026-08-17 20:04:10.919 #14860 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=468ms pid=14860 v=4.0.6
+INFO  2026-08-17 20:07:01.745 #14860 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 20:07:01.747 #14860 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 20:07:03.539 #11832 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 20:07:03.817 #11832 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 20:07:03.817 #11832 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @144ms
+INFO  2026-08-17 20:07:03.818 #11832 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=440ms pid=11832 v=4.0.6
+INFO  2026-08-17 20:07:27.608 #11832 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 20:07:27.610 #11832 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 20:07:28.608 #17152 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 20:07:28.908 #17152 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 20:07:28.909 #17152 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @154ms
+INFO  2026-08-17 20:07:28.910 #17152 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=467ms pid=17152 v=4.0.6
+INFO  2026-08-17 20:07:35.687 #17152 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 20:07:35.689 #17152 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 20:07:36.538 #19712 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 20:07:36.834 #19712 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 20:07:36.834 #19712 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @148ms
+INFO  2026-08-17 20:07:36.835 #19712 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=451ms pid=19712 v=4.0.6
+INFO  2026-08-17 20:38:53.266 #19712 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 20:38:53.269 #19712 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 20:45:24.558 #8372 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 20:45:25.022 #8372 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 20:45:25.022 #8372 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @233ms
+INFO  2026-08-17 20:45:25.023 #8372 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=715ms pid=8372 v=4.0.6
+INFO  2026-08-17 21:13:54.574 #8372 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 21:13:54.578 #8372 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 21:13:55.890 #7392 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 21:13:56.283 #7392 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 21:13:56.283 #7392 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @178ms
+INFO  2026-08-17 21:13:56.284 #7392 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=600ms pid=7392 v=4.0.6
+INFO  2026-08-17 21:35:54.459 #7392 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 21:35:54.462 #7392 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 21:35:57.181 #13264 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 21:35:57.495 #13264 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 21:35:57.496 #13264 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @164ms
+INFO  2026-08-17 21:35:57.496 #13264 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=499ms pid=13264 v=4.0.6
+INFO  2026-08-17 21:58:16.441 #13264 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 21:58:16.444 #13264 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 22:05:04.247 #18888 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 22:05:04.549 #18888 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 22:05:04.549 #18888 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @150ms
+INFO  2026-08-17 22:05:04.550 #18888 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=479ms pid=18888 v=4.0.6
+INFO  2026-08-17 22:05:23.173 #18888 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 22:05:23.176 #18888 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 22:05:24.240 #27536 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 22:05:24.582 #27536 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 22:05:24.584 #27536 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @161ms
+INFO  2026-08-17 22:05:24.584 #27536 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=559ms pid=27536 v=4.0.6
+INFO  2026-08-17 22:05:46.797 #27536 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 22:05:46.799 #27536 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 22:05:47.822 #21824 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 22:05:48.131 #21824 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 22:05:48.131 #21824 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @152ms
+INFO  2026-08-17 22:05:48.131 #21824 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=475ms pid=21824 v=4.0.6
+INFO  2026-08-17 22:06:10.540 #21824 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 22:06:10.542 #21824 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 22:06:11.589 #23776 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 22:06:11.987 #23776 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 22:06:11.987 #23776 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @202ms
+INFO  2026-08-17 22:06:11.989 #23776 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=575ms pid=23776 v=4.0.6
+INFO  2026-08-17 22:08:51.421 #23776 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 22:08:51.423 #23776 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 22:08:53.289 #23420 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 22:08:53.592 #23420 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 22:08:53.594 #23420 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @151ms
+INFO  2026-08-17 22:08:53.594 #23420 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=464ms pid=23420 v=4.0.6
+INFO  2026-08-17 22:11:41.984 #23420 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 22:11:41.987 #23420 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 22:11:43.089 #19224 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 22:11:43.399 #19224 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 22:11:43.399 #19224 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @152ms
+INFO  2026-08-17 22:11:43.400 #19224 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=484ms pid=19224 v=4.0.6
+INFO  2026-08-17 22:35:49.149 #19224 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 22:35:49.152 #19224 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 22:35:50.349 #17436 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 22:35:50.707 #17436 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 22:35:50.708 #17436 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @181ms
+INFO  2026-08-17 22:35:50.708 #17436 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=560ms pid=17436 v=4.0.6
+INFO  2026-08-17 22:38:46.967 #17436 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 22:38:46.969 #17436 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 22:38:48.444 #21184 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 22:38:48.909 #21184 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 22:38:48.909 #21184 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @208ms
+INFO  2026-08-17 22:38:48.910 #21184 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=739ms pid=21184 v=4.0.6
+INFO  2026-08-17 22:41:37.134 #21184 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 22:41:37.137 #21184 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 22:41:38.190 #1472 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 22:41:38.517 #1472 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 22:41:38.517 #1472 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @167ms
+INFO  2026-08-17 22:41:38.518 #1472 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=507ms pid=1472 v=4.0.6
+INFO  2026-08-17 22:41:45.212 #1472 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 22:41:45.215 #1472 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 22:43:29.423 #164 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 22:43:29.836 #164 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 22:43:29.836 #164 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @174ms
+INFO  2026-08-17 22:43:29.837 #164 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=646ms pid=164 v=4.0.6
+INFO  2026-08-17 22:54:53.445 #164 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 22:54:53.448 #164 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 22:54:56.480 #29264 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 22:54:56.823 #29264 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 22:54:56.824 #29264 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @166ms
+INFO  2026-08-17 22:54:56.824 #29264 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=525ms pid=29264 v=4.0.6
+INFO  2026-08-17 23:02:59.347 #29264 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 23:02:59.350 #29264 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 23:03:01.717 #21932 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 23:03:02.077 #21932 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 23:03:02.078 #21932 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @189ms
+INFO  2026-08-17 23:03:02.078 #21932 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=544ms pid=21932 v=4.0.6
+INFO  2026-08-17 23:08:03.720 #21932 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 23:08:03.722 #21932 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 23:08:05.039 #26768 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 23:08:05.415 #26768 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 23:08:05.416 #26768 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @196ms
+INFO  2026-08-17 23:08:05.417 #26768 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=653ms pid=26768 v=4.0.6
+INFO  2026-08-17 23:09:32.688 #26768 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 23:09:32.690 #26768 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 23:09:34.091 #29488 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 23:09:34.422 #29488 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 23:09:34.422 #29488 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @160ms
+INFO  2026-08-17 23:09:34.422 #29488 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=648ms pid=29488 v=4.0.6
+INFO  2026-08-17 23:12:18.820 #29488 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 23:12:18.822 #29488 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 23:12:20.012 #18732 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 23:12:20.391 #18732 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 23:12:20.391 #18732 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @189ms
+INFO  2026-08-17 23:12:20.392 #18732 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=736ms pid=18732 v=4.0.6
+INFO  2026-08-17 23:19:51.196 #18732 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 23:19:51.199 #18732 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 23:19:52.825 #21632 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 23:19:53.216 #21632 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 23:19:53.216 #21632 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @200ms
+INFO  2026-08-17 23:19:53.217 #21632 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=662ms pid=21632 v=4.0.6
+INFO  2026-08-17 23:28:33.562 #21632 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 23:28:33.565 #21632 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 23:28:34.902 #28404 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 23:28:35.326 #28404 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 23:28:35.327 #28404 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @204ms
+INFO  2026-08-17 23:28:35.327 #28404 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=791ms pid=28404 v=4.0.6
+INFO  2026-08-17 23:35:28.541 #28404 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 23:35:28.544 #28404 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 23:35:30.063 #2408 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 23:35:30.415 #2408 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 23:35:30.415 #2408 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @168ms
+INFO  2026-08-17 23:35:30.416 #2408 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=643ms pid=2408 v=4.0.6
+INFO  2026-08-17 23:37:06.417 #2408 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 23:37:06.418 #2408 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 23:37:36.778 #14192 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 23:37:37.095 #14192 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 23:37:37.095 #14192 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @162ms
+INFO  2026-08-17 23:37:37.096 #14192 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=501ms pid=14192 v=4.0.6
+WARN  2026-08-17 23:37:59.915 #14192 [-smarthttp-9][*][o.n.s.c.r.RoutingDefault]: 
+The routing replaced: '/plugin/hi'
+INFO  2026-08-17 23:38:24.839 #14192 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 23:38:24.840 #14192 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 23:38:26.084 #21796 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 23:38:26.425 #21796 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 23:38:26.425 #21796 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @168ms
+INFO  2026-08-17 23:38:26.425 #21796 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=537ms pid=21796 v=4.0.6
+WARN  2026-08-17 23:42:07.688 #21796 [-smarthttp-15][*][o.n.s.c.r.RoutingDefault]: 
+The routing replaced: '/plugin/hi'
+WARN  2026-08-17 23:42:10.579 #21796 [-smarthttp-16][*][o.n.s.c.r.RoutingDefault]: 
+The routing replaced: '/plugin/hi'
+WARN  2026-08-17 23:42:56.087 #21796 [-smarthttp-16][*][o.n.s.c.r.RoutingDefault]: 
+The routing replaced: '/plugin/hi'
+WARN  2026-08-17 23:43:00.652 #21796 [-smarthttp-16][*][o.n.s.c.r.RoutingDefault]: 
+The routing replaced: '/plugin/hi'
+INFO  2026-08-17 23:54:34.771 #21796 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 23:54:34.773 #21796 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 23:54:37.102 #18732 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 23:54:37.426 #18732 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 23:54:37.427 #18732 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @155ms
+INFO  2026-08-17 23:54:37.427 #18732 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=505ms pid=18732 v=4.0.6
+INFO  2026-08-17 23:54:55.381 #18732 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 23:54:55.383 #18732 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 23:54:56.448 #20536 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 23:54:56.798 #20536 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 23:54:56.798 #20536 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @177ms
+INFO  2026-08-17 23:54:56.799 #20536 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=586ms pid=20536 v=4.0.6
+WARN  2026-08-17 23:55:26.224 #20536 [-smarthttp-11][*][o.n.s.c.r.RoutingDefault]: 
+The routing replaced: '/plugin/hi'
+INFO  2026-08-17 23:58:01.135 #20536 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-17 23:58:01.136 #20536 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-17 23:58:02.814 #28320 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-17 23:58:03.136 #28320 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-17 23:58:03.136 #28320 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @160ms
+INFO  2026-08-17 23:58:03.136 #28320 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=493ms pid=28320 v=4.0.6
+WARN  2026-08-17 23:58:13.918 #28320 [-smarthttp-7][*][o.n.s.c.r.RoutingDefault]: 
+The routing replaced: '/plugin/hi'
+WARN  2026-08-17 23:58:24.227 #28320 [-smarthttp-8][*][o.n.s.c.r.RoutingDefault]: 
+The routing replaced: '/plugin/hi'

@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>插件热拔插管理</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.7.16/dist/vue.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: #f0f2f5;
+            color: #333;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+            color: #1a1a1a;
+        }
+
+        h2 {
+            font-size: 18px;
+            margin-bottom: 12px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .login-panel {
+            max-width: 460px;
+            margin: 80px auto;
+        }
+
+        .login-panel .form-row label {
+            width: 72px;
+        }
+
+        .login-panel .form-row input, .login-panel .form-row select {
+            flex: 1;
+            padding: 8px 10px;
+            border: 1px solid #dcdfe6;
+            border-radius: 4px;
+            background: #fff;
+        }
+
+        section {
+            background: #fff;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+        }
+
+        /* ---- 上传组件样式 ---- */
+        .plugin-uploader {
+            margin-bottom: 8px;
+        }
+
+        .drop-zone {
+            border: 2px dashed #d0d5dd;
+            border-radius: 8px;
+            padding: 32px 20px;
+            text-align: center;
+            cursor: pointer;
+            transition: border-color 0.2s, background 0.2s;
+        }
+
+        .drop-zone:hover {
+            border-color: #409eff;
+            background: #f5f9ff;
+        }
+
+        .drop-zone.active {
+            border-color: #409eff;
+            background: #ecf5ff;
+        }
+
+        .drop-zone.hasFile {
+            border-style: solid;
+            border-color: #67c23a;
+            background: #f0f9eb;
+        }
+
+        .upload-icon {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            line-height: 38px;
+            font-size: 28px;
+            color: #c0c4cc;
+            border: 2px solid #c0c4cc;
+            border-radius: 50%;
+            margin-bottom: 8px;
+        }
+
+        .drop-hint p {
+            color: #909399;
+            font-size: 14px;
+            line-height: 1.8;
+        }
+
+        .drop-hint .hint {
+            font-size: 12px;
+            color: #c0c4cc;
+        }
+
+        .file-info {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .file-name {
+            font-weight: 600;
+            color: #333;
+        }
+
+        .file-size {
+            color: #909399;
+            font-size: 13px;
+        }
+
+        .upload-config {
+            margin-top: 12px;
+        }
+
+        .form-row {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+
+        .form-row label {
+            width: 80px;
+            font-size: 14px;
+            color: #606266;
+            flex-shrink: 0;
+        }
+
+        .form-row input[type="text"] {
+            flex: 1;
+            padding: 6px 10px;
+            border: 1px solid #dcdfe6;
+            border-radius: 4px;
+            font-size: 14px;
+            outline: none;
+        }
+
+        .form-row input[type="text"]:focus {
+            border-color: #409eff;
+        }
+
+        .checkbox-row label {
+            width: auto;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .progress-bar {
+            position: relative;
+            height: 24px;
+            background: #ebeef5;
+            border-radius: 4px;
+            margin-top: 12px;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #409eff, #67c23a);
+            transition: width 0.2s;
+        }
+
+        .progress-text {
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            line-height: 24px;
+            font-size: 12px;
+            color: #333;
+            font-weight: 600;
+        }
+
+        .error-msg {
+            margin-top: 8px;
+            padding: 8px 12px;
+            background: #fef0f0;
+            border: 1px solid #fde2e2;
+            border-radius: 4px;
+            color: #f56c6c;
+            font-size: 13px;
+        }
+
+        /* ensure buttons always visible */
+        .plugin-uploader .actions {
+            margin-top: 16px;
+            display: flex;
+            gap: 10px;
+        }
+
+        .plugin-uploader .actions .btn {
+            padding: 8px 20px;
+            font-size: 14px;
+            min-width: 80px;
+        }
+
+        /* ---- buttons ---- */
+        .btn {
+            padding: 6px 16px;
+            border: none;
+            border-radius: 4px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: opacity 0.2s;
+        }
+
+        .btn:hover {
+            opacity: 0.85;
+        }
+
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .btn-primary {
+            background: #409eff;
+            color: #fff;
+        }
+
+        .btn-default {
+            background: #f0f2f5;
+            color: #606266;
+        }
+
+        .btn-success {
+            background: #67c23a;
+            color: #fff;
+        }
+
+        .btn-warning {
+            background: #e6a23c;
+            color: #fff;
+        }
+
+        .btn-danger {
+            background: #f56c6c;
+            color: #fff;
+        }
+
+        .btn-sm {
+            padding: 4px 10px;
+            font-size: 12px;
+        }
+
+        /* ---- table ---- */
+        .toolbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 10px 12px;
+            text-align: left;
+            border-bottom: 1px solid #ebeef5;
+            font-size: 14px;
+        }
+
+        th {
+            color: #909399;
+            font-weight: 600;
+            background: #fafafa;
+        }
+
+        td .jar-path {
+            color: #909399;
+            font-size: 12px;
+            word-break: break-all;
+            max-width: 300px;
+        }
+
+        .status-tag {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 10px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+
+        .status-STARTED {
+            background: #f0f9eb;
+            color: #67c23a;
+        }
+
+        .status-REGISTERED {
+            background: #fdf6ec;
+            color: #e6a23c;
+        }
+
+        .status-STOPPED {
+            background: #f4f4f5;
+            color: #909399;
+        }
+
+        .status-UNLOADED {
+            background: #fef0f0;
+            color: #f56c6c;
+        }
+
+        .empty-tip {
+            text-align: center;
+            color: #c0c4cc;
+            padding: 30px 0;
+        }
+
+        /* ---- test area ---- */
+        .test-row {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+            margin-top: 12px;
+        }
+
+        .test-row input {
+            padding: 6px 10px;
+            border: 1px solid #dcdfe6;
+            border-radius: 4px;
+            font-size: 14px;
+            width: 200px;
+            outline: none;
+        }
+
+        .test-result {
+            margin-top: 8px;
+            padding: 10px 14px;
+            background: #f5f7fa;
+            border-radius: 4px;
+            font-size: 14px;
+            color: #606266;
+        }
+
+        .toast {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            padding: 12px 20px;
+            border-radius: 4px;
+            color: #fff;
+            font-size: 14px;
+            z-index: 999;
+            animation: slideIn 0.3s ease;
+        }
+
+        .toast-success {
+            background: #67c23a;
+        }
+
+        .toast-error {
+            background: #f56c6c;
+        }
+
+        @keyframes slideIn {
+            from {
+                transform: translateX(100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+<div id="app">
+    <div class="container">
+        <h1>插件热拔插管理</h1>
+
+        <section v-if="!authenticated" class="login-panel">
+            <h2>管理员登录</h2>
+            <div class="form-row"><label>租户</label><select v-model.number="loginForm.tenantId">
+                <option v-for="t in tenantOptions" :key="t.id" :value="t.id">{{ t.tenantName }}</option>
+            </select></div>
+            <div class="form-row"><label>账号</label><input v-model.trim="loginForm.username" autocomplete="username">
+            </div>
+            <div class="form-row"><label>密码</label><input v-model="loginForm.password" type="password"
+                                                            autocomplete="current-password" @keyup.enter="login"></div>
+            <button class="btn btn-primary" @click="login" :disabled="loginLoading">{{ loginLoading ? '登录中...' : '登录'
+                }}
+            </button>
+            <div v-if="loginError" class="error-msg">{{ loginError }}</div>
+        </section>
+
+        <template v-if="authenticated">
+
+            <section v-if="maintenance" style="border-left:4px solid #e6a23c;background:#fdf6ec;">
+                <strong>权限插件维护中</strong>
+                <p style="margin-top:8px;color:#606266;">业务接口暂时关闭，登录凭证已保留。请在 5 分钟内恢复 pluginSystem。</p>
+            </section>
+
+            <!-- ====== upload plugin ====== -->
+            <section>
+                <h2>上传插件</h2>
+                <plugin-uploader
+                        upload-url="/api/plugins/upload"
+                        accept=".jar"
+                        :max-size="100 * 1024 * 1024"
+                        :auto-start="false"
+                        :auto-fill-name="true"
+                        :auth-token="token"
+                        :maintenance-core="maintenance"
+                        label="上传插件"
+                        @success="onUploadSuccess"
+                        @error="onUploadError"
+                ></plugin-uploader>
+            </section>
+
+            <!-- ====== plugin list ====== -->
+            <section>
+                <div class="toolbar">
+                    <h2>插件列表</h2>
+                    <button class="btn btn-default btn-sm" @click="loadPlugins">刷新</button>
+                </div>
+                <table v-if="plugins.length > 0">
+                    <thead>
+                    <tr>
+                        <th>名称</th>
+                        <th>路径</th>
+                        <th>状态</th>
+                        <th>操作</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr v-for="p in plugins" :key="p.name">
+                        <td>{{ p.name }}</td>
+                        <td>
+                            <div class="jar-path">{{ p.jarPath }}</div>
+                        </td>
+                        <td>
+                            <span class="status-tag" :class="'status-' + p.status">{{ p.status }}</span>
+                        </td>
+                        <td>
+                            <button v-if="p.status !== 'STARTED'" class="btn btn-success btn-sm"
+                                    @click="operate('start', p.name)">启动
+                            </button>
+                            <button v-if="p.status === 'STARTED'" class="btn btn-warning btn-sm"
+                                    @click="operate('stop', p.name)">停止
+                            </button>
+                            <button v-if="p.status !== 'UNLOADED'" class="btn btn-default btn-sm"
+                                    @click="operate('unload', p.name)">卸载
+                            </button>
+                            <button class="btn btn-danger btn-sm" @click="operate('remove', p.name)">移除</button>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+                <div v-else class="empty-tip">暂无插件, 请上传 jar 包</div>
+            </section>
+
+            <!-- ====== capability test ====== -->
+            <section>
+                <h2>插件能力测试</h2>
+                <p style="color:#909399;font-size:13px;margin-bottom:8px;">调用已启动插件的 greet 能力 (DamiBus
+                    事件总线)</p>
+                <div class="test-row">
+                    <input v-model="greetName" placeholder="输入名称" @keyup.enter="testGreet">
+                    <button class="btn btn-primary btn-sm" @click="testGreet" :disabled="greetLoading">
+                        {{ greetLoading ? '调用中...' : '调用 greet' }}
+                    </button>
+                </div>
+                <div v-if="greetResult !== null" class="test-result">
+                    <strong>结果:</strong>{{ greetResult }}
+                </div>
+            </section>
+        </template>
+    </div>
+
+    <!-- ====== Toast ====== -->
+    <div v-if="toast.show" :class="'toast toast-' + toast.type">
+        {{ toast.message }}
+    </div>
+</div>
+
+<script src="js/plugin-uploader.js?v=4"></script>
+<script>
+    new Vue({
+        el: '#app',
+        data: {
+            plugins: [],
+            greetName: 'world',
+            greetResult: null,
+            greetLoading: false,
+            toast: {show: false, message: '', type: 'success'}
+            , token: sessionStorage.getItem('pluginManagementToken') || ''
+            , loginLoading: false
+            , loginError: ''
+            , loginForm: {tenantId: 1, username: '', password: ''}
+            , tenantOptions: [{id: 1, tenantName: '默认租户'}]
+            , maintenance: false
+            , maintenanceTimer: null
+        },
+        computed: {
+            authenticated: function () {
+                return !!this.token
+            }
+        },
+        mounted: function () {
+            this.loadDefaultTenant()
+            if (this.token) this.loadPlugins()
+        },
+        methods: {
+            loadDefaultTenant: function () {
+                var self = this
+                fetch('/auth/tenants').then(function (res) {
+                    return res.json()
+                }).then(function (res) {
+                    if (res.code === 200 && Array.isArray(res.data) && res.data.length) {
+                        self.tenantOptions = res.data
+                        var defaultTenant = res.data.find(function (tenant) { return tenant.isDefault }) || res.data[0]
+                        self.loginForm.tenantId = defaultTenant.id
+                    }
+                }).catch(function () {
+                })
+            },
+            authHeaders: function (extra) {
+                var headers = extra || {}
+                if (this.token) headers.Authorization = 'Bearer ' + this.token
+                return headers
+            },
+            authorizedFetch: function (url, options) {
+                var self = this
+                options = options || {}
+                options.headers = this.authHeaders(options.headers)
+                return fetch(url, options).then(function (res) {
+                    if (res.status === 401) {
+                        self.token = ''
+                        sessionStorage.removeItem('pluginManagementToken')
+                        throw new Error('登录已失效，请重新登录')
+                    }
+                    if (res.status === 403) throw new Error('当前账号没有操作权限')
+                    if (res.status === 503) {
+                        self.enterMaintenance()
+                        throw new Error('权限插件维护中，请先恢复 pluginSystem')
+                    }
+                    return res
+                })
+            },
+            enterMaintenance: function () {
+                var self = this
+                this.maintenance = true
+                if (this.maintenanceTimer) return
+                this.maintenanceTimer = setInterval(function () { self.pollCoreStatus() }, 3000)
+            },
+            leaveMaintenance: function () {
+                this.maintenance = false
+                if (this.maintenanceTimer) clearInterval(this.maintenanceTimer)
+                this.maintenanceTimer = null
+            },
+            pollCoreStatus: function () {
+                var self = this
+                fetch('/api/plugins/core-status?name=pluginSystem', {headers: this.authHeaders({})})
+                    .then(function (res) { return res.status === 200 ? res.json() : null })
+                    .then(function (res) {
+                        if (res && res.success && res.data && res.data.status === 'STARTED') {
+                            self.leaveMaintenance()
+                            self.loadPlugins()
+                        }
+                    }).catch(function () {})
+            },
+            login: function () {
+                var self = this
+                this.loginLoading = true
+                this.loginError = ''
+                fetch('/login', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify(this.loginForm)
+                }).then(function (res) {
+                    return res.text().then(function (text) {
+                        if (!text) throw new Error('登录接口返回空响应（HTTP ' + res.status + '）')
+                        try { return JSON.parse(text) }
+                        catch (e) { throw new Error('登录接口返回了无效响应（HTTP ' + res.status + '）') }
+                    })
+                })
+                    .then(function (res) {
+                        if (res.code !== 200 || !res.token) throw new Error(res.msg || '登录失败')
+                        self.token = res.token
+                        self.loginForm.password = ''
+                        sessionStorage.setItem('pluginManagementToken', res.token)
+                        self.loadPlugins()
+                    }).catch(function (err) {
+                    self.loginError = err.message
+                })
+                    .finally(function () {
+                        self.loginLoading = false
+                    })
+            },
+            loadPlugins: function () {
+                var self = this
+                this.authorizedFetch('/api/plugins')
+                    .then(function (res) {
+                        return res.json()
+                    })
+                    .then(function (res) {
+                        if (res.success) {
+                            self.plugins = res.data || []
+                        } else {
+                            self.showToast('加载失败: ' + (res.message || '未知错误'), 'error')
+                        }
+                    })
+                    .catch(function (err) {
+                        self.showToast('网络错误: ' + err.message, 'error')
+                    })
+            },
+            onUploadSuccess: function (payload) {
+                var name = payload.plugin ? payload.plugin.name : '插件'
+                this.showToast(name + ' 上传成功', 'success')
+                if (!this.maintenance) this.loadPlugins()
+            },
+            onUploadError: function (payload) {
+                this.showToast(payload.message, 'error')
+            },
+            operate: function (action, name) {
+                var self = this
+                var labelMap = {start: '启动', stop: '停止', unload: '卸载', remove: '移除'}
+                this.authorizedFetch('/api/plugins/' + action, {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/x-www-form-urlencoded'},
+                    body: 'name=' + encodeURIComponent(name)
+                })
+                    .then(function (res) {
+                        return res.json()
+                    })
+                    .then(function (res) {
+                        if (res.success) {
+                            self.showToast(name + ' ' + labelMap[action] + '成功', 'success')
+                            if (name === 'pluginSystem' && action === 'stop') {
+                                self.enterMaintenance()
+                                self.plugins.forEach(function (p) {
+                                    if (p.name === name) p.status = 'STOPPED'
+                                })
+                                self.showToast('权限插件已停止，请在 5 分钟内完成维护并启动', 'success')
+                            } else if (name === 'pluginSystem' && action === 'start') {
+                                self.leaveMaintenance()
+                                self.loadPlugins()
+                            } else if (name === 'pluginSystem') {
+                                self.enterMaintenance()
+                                self.plugins.forEach(function (p) {
+                                    if (p.name === name) {
+                                        p.status = res.data && res.data.status
+                                            ? res.data.status
+                                            : (action === 'remove' ? 'QUARANTINED' : 'UNLOADED')
+                                        p.jarPath = res.data && res.data.jarPath ? res.data.jarPath : p.jarPath
+                                        p.recoverable = p.status === 'QUARANTINED'
+                                    }
+                                })
+                                if (action === 'remove') {
+                                    self.showToast('pluginSystem 已移入可恢复隔离区，并非永久删除', 'success')
+                                }
+                            } else {
+                                self.loadPlugins()
+                            }
+                        } else {
+                            self.showToast(name + ' ' + labelMap[action] + '失败: ' + (res.message || ''), 'error')
+                        }
+                    })
+                    .catch(function (err) {
+                        self.showToast('网络错误: ' + err.message, 'error')
+                    })
+            },
+            testGreet: function () {
+                var self = this
+                if (this.greetLoading) return
+                this.greetLoading = true
+                this.greetResult = null
+                this.authorizedFetch('/api/plugin-capabilities/greet?name=' + encodeURIComponent(this.greetName))
+                    .then(function (res) {
+                        return res.json()
+                    })
+                    .then(function (res) {
+                        self.greetLoading = false
+                        if (res.success) {
+                            self.greetResult = res.data
+                        } else {
+                            self.greetResult = '失败: ' + (res.message || '未知错误');
+                            self.showToast(res.message || '调用失败', 'error')
+                        }
+                    })
+                    .catch(function (err) {
+                        self.greetLoading = false
+                        self.greetResult = '网络错误: ' + err.message
+                        self.showToast(err.message, 'error')
+                    })
+            },
+            showToast: function (message, type) {
+                var self = this
+                this.toast = {show: true, message: message, type: type || 'success'}
+                setTimeout(function () {
+                    self.toast.show = false
+                }, 3000)
+            }
+        }
+    })
+</script>
+</body>
+</html>

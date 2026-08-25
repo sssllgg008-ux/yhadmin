@@ -1,0 +1,92 @@
+/* ============================================================
+   全局重置与基础排版
+   ============================================================ */
+
+* { box-sizing: border-box; }
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: var(--ry-font-sans);
+  font-size: 14px;
+  line-height: 1.5;          /* EP 官方标准行高 */
+  color: var(--ry-foreground);
+  background: var(--ry-background);
+  font-variant-numeric: tabular-nums;  /* 数字等宽对齐 */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#app { width: 100%; height: 100%; }
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, dl, dd { margin: 0; padding: 0; }
+ul, ol { list-style: none; }
+a { color: var(--ry-primary); text-decoration: none; }
+a:hover { color: var(--ry-primary-400); }
+
+button { font-family: inherit; }
+input, textarea, select { font-family: inherit; }
+
+button:focus-visible,
+a:focus-visible,
+[role="button"]:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible {
+  outline: 2px solid var(--ry-primary);
+  outline-offset: 2px;
+}
+
+/* 滚动条美化 */
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-thumb { background: var(--ry-neutral-300); border-radius: var(--ry-radius-full); }
+::-webkit-scrollbar-thumb:hover { background: var(--ry-neutral-400); }
+::-webkit-scrollbar-track { background: transparent; }
+
+/* 通用排版类（对齐 Element Plus 官方字体层级） */
+.ry-h1 { font-family: var(--ry-font-title); font-weight: 600; font-size: 20px; line-height: 1.5; color: var(--ry-foreground); }
+.ry-h2 { font-family: var(--ry-font-title); font-weight: 600; font-size: 18px; line-height: 1.5; color: var(--ry-foreground); }
+.ry-h3 { font-family: var(--ry-font-title); font-weight: 600; font-size: 16px; line-height: 1.5; color: var(--ry-foreground); }
+.ry-h4 { font-family: var(--ry-font-title); font-weight: 600; font-size: 14px; line-height: 1.5; color: var(--ry-foreground); }
+.ry-body { font-family: var(--ry-font-sans); font-weight: 400; font-size: 14px; line-height: 1.5; color: var(--ry-foreground); }
+.ry-body-sm { font-family: var(--ry-font-sans); font-weight: 400; font-size: 13px; line-height: 1.5; color: var(--ry-foreground); }
+.ry-muted-text { font-family: var(--ry-font-sans); font-weight: 400; font-size: 13px; line-height: 1.5; color: var(--ry-muted-foreground); }
+.ry-caption { font-family: var(--ry-font-sans); font-weight: 400; font-size: 12px; line-height: 1.5; color: var(--ry-muted-foreground); }
+.ry-mono { font-family: var(--ry-font-mono); font-weight: 400; font-size: 13px; }
+.ry-numeric { font-family: var(--ry-font-numeric); font-variant-numeric: tabular-nums; font-weight: 500; }
+
+/* 通用容器 */
+.ry-page { padding: 16px; }
+.ry-page-section { margin-bottom: 12px; }
+.ry-page-section:last-child { margin-bottom: 0; }
+
+/* flex 工具类 */
+.ry-flex { display: flex; }
+.ry-flex-center { display: flex; align-items: center; justify-content: center; }
+.ry-flex-between { display: flex; align-items: center; justify-content: space-between; }
+.ry-flex-1 { flex: 1; min-width: 0; }
+.ry-gap-sm { gap: 8px; }
+.ry-gap-md { gap: 12px; }
+.ry-gap-lg { gap: 16px; }
+
+/* 文本省略 */
+.ry-text-ellipsis { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.ry-text-ellipsis-2 {
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+  overflow: hidden; text-overflow: ellipsis;
+}
+
+/* 表格内省略号单元格 */
+.el-table .cell.ry-cell-ellipsis {
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

@@ -1,0 +1,162 @@
+/* ============================================================
+   权限管理后台 · Snowy 经典布局主题
+   拂晓蓝 #1677FF · 深藏青侧栏 #001529 · 紧凑企业后台
+   ============================================================ */
+
+:root {
+  /* ---------- 主色 · Element Plus Blue（静态默认值，运行时由 app.js 动态覆盖） ---------- */
+  --ry-primary-50: #E6F4FF;
+  --ry-primary-100: #BAE0FF;
+  --ry-primary-200: #91CAFF;
+  --ry-primary-300: #69B1FF;
+  --ry-primary-400: #4096FF;
+  --ry-primary-500: #1677FF;
+  --ry-primary-600: #0958D9;
+  --ry-primary-700: #003EB3;
+  --ry-primary-800: #002C8C;
+  --ry-primary-900: #001D66;
+  --ry-primary-foreground: #FFFFFF;
+  /* RGB 分量（供 rgba() 使用，运行时由 app.js 动态覆盖） */
+  --ry-primary-rgb: 22, 119, 255;
+  /* 主色渐变 & 光晕（用于 Logo 等品牌元素，运行时由 app.js 动态覆盖） */
+  --ry-gradient-primary: linear-gradient(135deg, #4096FF 0%, #1677FF 100%);
+  --ry-shadow-primary-glow: 0 3px 10px rgba(22, 119, 255, 0.24);
+
+  /* ---------- 中性色 · Element Plus 灰阶 ---------- */
+  --ry-neutral-0: #FFFFFF;
+  --ry-neutral-50: #F8FAFC;
+  --ry-neutral-100: #F1F5F9;
+  --ry-neutral-150: #EEF2F6;
+  --ry-neutral-200: #E2E8F0;
+  --ry-neutral-250: #D9E1EA;
+  --ry-neutral-300: #CBD5E1;
+  --ry-neutral-400: #94A3B8;
+  --ry-neutral-500: #64748B;
+  --ry-neutral-600: #475569;
+  --ry-neutral-700: #334155;
+  --ry-neutral-800: #1E293B;
+  --ry-neutral-900: #0F172A;
+
+  /* ---------- Snowy 深色经典侧栏 ---------- */
+  --ry-sidebar-bg: #FFFFFF;
+  --ry-sidebar-bg-hover: #F3F7FF;
+  --ry-sidebar-sub-bg: #F8FAFD;
+  --ry-sidebar-bg-active: #EAF2FF;
+  --ry-sidebar-text: #526174;
+  --ry-sidebar-text-active: #2563EB;
+  --ry-sidebar-title: #172033;
+  --ry-sidebar-divider: #E9EEF5;
+
+  /* ---------- 语义状态色 ---------- */
+  --state-success: #67C23A;
+  --state-success-soft: #F0F9EB;
+  --state-success-border: #B3E19D;
+  --state-warning: #E6A23C;
+  --state-warning-soft: #FDF6EC;
+  --state-warning-border: #F5DAB1;
+  --state-error: #F56C6C;
+  --state-error-soft: #FEF0F0;
+  --state-error-border: #FBC4C4;
+  --state-error-hover: #F78989;
+  --state-info: #909399;
+  --state-info-soft: #F4F4F5;
+  --state-info-border: #D3D4D6;
+  --state-disabled: #CDD0D6;
+
+  /* ---------- 语义别名（供 Element Plus token 覆盖使用） ---------- */
+  --ry-background: #F4F7FB;
+  --ry-foreground: #1E293B;
+  --ry-card: #FFFFFF;
+  --ry-card-foreground: #303133;
+  --ry-popover: #FFFFFF;
+  --ry-popover-foreground: #303133;
+  --ry-primary: #1677FF;
+  --ry-muted: #F5F7FA;
+  --ry-muted-foreground: #64748B;
+  --ry-border: #E2E8F0;
+  --ry-border-light: #EDF1F5;
+  --ry-input: #D7DFE9;
+  --ry-ring: #1677FF;
+  --ry-accent: #F1F5FF;
+  --ry-accent-foreground: #1677FF;
+
+  /* ---------- 功能性衍生变量 ---------- */
+  --ry-mask-bg: rgba(0, 0, 0, 0.5);
+  --ry-ring-shadow: 0 0 0 2px rgba(var(--ry-primary-rgb), 0.12);
+  --ry-tab-close-hover: rgba(255, 255, 255, 0.25);
+  /* 焦点环：用于输入框 focus 状态，与主题色联动 */
+  --ry-focus-ring: 0 0 0 1px var(--ry-primary) inset, 0 0 0 2px rgba(var(--ry-primary-rgb), 0.12);
+
+  /* ---------- 圆角 ---------- */
+  --ry-radius-small: 6px;
+  --ry-radius-medium: 9px;
+  --ry-radius-large: 14px;
+  --ry-radius-full: 9999px;
+
+  /* ---------- 阴影（Element Plus 官方柔和风格） ---------- */
+  --ry-shadow-xs: 0 1px 3px rgba(30, 41, 59, 0.035), 0 8px 24px rgba(30, 64, 175, 0.025);
+  --ry-shadow-sm: 0 8px 24px rgba(30, 41, 59, 0.065);
+  --ry-shadow-md: 0 16px 40px rgba(30, 41, 59, 0.09);
+  --ry-shadow-lg: 0 24px 56px rgba(15, 23, 42, 0.12);
+  --ry-sidebar-shadow: 8px 0 30px rgba(30, 64, 175, 0.06);
+
+  /* ---------- 字体系统（系统字体优先 + EP 官方字体栈） ---------- */
+  --ry-font-sans: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+  --ry-font-mono: "SF Mono", "JetBrains Mono", "Cascadia Code", Menlo, Consolas, monospace;
+  --ry-font-title: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, "PingFang SC", "Microsoft YaHei", sans-serif;
+  --ry-font-numeric: "DIN Alternate", "Helvetica Neue", -apple-system, sans-serif;
+
+  /* ---------- 布局尺寸 ---------- */
+  --ry-sidebar-width: 232px;
+  --ry-sidebar-width-collapsed: 72px;
+  --ry-iconbar-width: 84px;        /* 深色图标栏宽度 */
+  --ry-submenu-width: 200px;       /* 浅色子菜单面板宽度 */
+  --ry-topbar-height: 60px;
+  --ry-tabs-height: 40px;
+  --ry-module-tabs-height: 44px;   /* 模块切换Tab栏高度 */
+
+  /* ---------- z-index 层级体系 ---------- */
+  --ry-z-sidebar: 100;
+  --ry-z-mask: 99;
+  --ry-z-dropdown: 2000;
+  --ry-z-modal: 3000;
+
+  /* ---------- Element Plus token 覆盖（让 el-* 组件直接对齐设计稿） ---------- */
+  --el-color-primary: #1677FF;
+  --el-color-primary-light-1: #2D85FF;
+  --el-color-primary-light-2: #4592FF;
+  --el-color-primary-light-3: #5CA0FF;
+  --el-color-primary-light-4: #73ADFF;
+  --el-color-primary-light-5: #8BBBFF;
+  --el-color-primary-light-6: #A2C9FF;
+  --el-color-primary-light-7: #B9D6FF;
+  --el-color-primary-light-8: #D0E4FF;
+  --el-color-primary-light-9: #E8F1FF;
+  --el-color-primary-dark-2: #125FCC;
+  --el-color-success: #67C23A;
+  --el-color-warning: #E6A23C;
+  --el-color-danger: #F56C6C;
+  --el-color-error: #F56C6C;
+  --el-color-info: #909399;
+  --el-text-color-primary: #1E293B;
+  --el-text-color-regular: #475569;
+  --el-text-color-secondary: #64748B;
+  --el-text-color-placeholder: #94A3B8;
+  --el-border-color: #E2E8F0;
+  --el-border-color-light: #EDF1F5;
+  --el-border-color-lighter: #F1F5F9;
+  --el-border-color-extra-light: #F8FAFC;
+  --el-fill-color-blank: #FFFFFF;
+  --el-fill-color-light: #F8FAFC;
+  --el-bg-color: #FFFFFF;
+  --el-bg-color-page: #F6F8F9;
+  --el-border-radius-base: 9px;
+  --el-border-radius-small: 6px;
+  --el-border-radius-round: 9999px;
+  --el-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.08);
+  --el-box-shadow-light: 0 2px 4px 0 rgba(0, 0, 0, 0.04);
+  --el-font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+  --el-font-size-base: 14px;
+  --el-component-size: 32px;
+  --el-component-size-small: 28px;
+}

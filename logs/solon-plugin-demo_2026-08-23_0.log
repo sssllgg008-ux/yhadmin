@@ -1,0 +1,22 @@
+INFO  2026-08-23 10:09:11.114 #972 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-23 10:09:14.105 #972 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-23 10:09:23.589 #972 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-23 10:09:23.590 #972 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @1483ms
+INFO  2026-08-23 10:09:23.590 #972 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=12974ms pid=972 v=4.0.6
+INFO  2026-08-23 11:14:35.405 #972 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-23 11:14:35.441 #972 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-23 11:14:49.587 #972 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-23 11:14:56.539 #972 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-23 11:14:56.544 #972 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-23 11:15:01.196 #972 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited

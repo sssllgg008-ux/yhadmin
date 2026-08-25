@@ -1,0 +1,37 @@
+# Solon 应用配置
+server.port: 8080
+
+
+solon.app.name: "solon-plugin-demo"
+solon.app.version: "1.0.0"
+
+solon.app.banner: true
+
+solon.logging.appender:
+  console:
+    level: INFO  #可根据需要调整级别
+    enable: true #是否启用
+  cloud:
+    level: INFO
+    enable: true
+
+# SmartHttp/Solon multipart 上传限制。请求体需略大于单文件限制，以容纳 multipart 边界和字段。
+server.request.maxBodySize: 110mb
+server.request.maxFileSize: 100mb
+
+# plugin-system reuses yhaminadmin RBAC tables; inject secrets with environment variables.
+plugin.system:
+  tenant-id: 1
+  # IDE/local fallback only; environment variables still take precedence.
+  dev-config: "C:/Users/sssll/Documents/DDD/yhaminadmin/yhaminadmin-interface/src/main/resources/application-dev.yml"
+  datasource:
+    driver: "com.mysql.cj.jdbc.Driver"
+  # Redis is mandatory. Host/port/password may be overridden by YHAMIN_REDIS_*.
+  redis:
+    host: "127.0.0.1"
+    port: 6379
+    database: 0
+    password: ""
+  sa-token:
+    token-name: "satoken"
+    timeout: 28800

@@ -1,0 +1,26 @@
+import { request } from "@/utils/request";
+
+export function login(data) {
+  return request({ url: "/login", method: "post", data });
+}
+
+export function getInfo() {
+  return request({ url: "/getInfo", method: "get" });
+}
+
+export function logout() {
+  return request({ url: "/logout", method: "post" });
+}
+
+export function getCaptcha(tenantId) {
+  return request({ url: "/captchaImage", method: "get", params: { tenantId } });
+}
+
+export function getDashboardStats() {
+  return request({ url: "/dashboard/stats", method: "get" });
+}
+
+// 登录页可选租户列表（公开接口）
+export function listTenantsForLogin() {
+  return request({ url: "/auth/tenants", method: "get" });
+}

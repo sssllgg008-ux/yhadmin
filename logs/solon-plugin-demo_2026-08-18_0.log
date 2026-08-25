@@ -1,0 +1,2328 @@
+WARN  2026-08-18 00:02:14.888 #28320 [-smarthttp-9][*][o.n.s.c.r.RoutingDefault]: 
+The routing replaced: '/plugin/hi'
+WARN  2026-08-18 00:09:36.998 #28320 [-smarthttp-13][*][o.n.s.c.r.RoutingDefault]: 
+The routing replaced: '/plugin/hi'
+WARN  2026-08-18 00:14:21.617 #28320 [-smarthttp-16][*][o.n.s.c.r.RoutingDefault]: 
+The routing replaced: '/plugin/hi'
+INFO  2026-08-18 00:34:17.153 #28320 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 00:34:17.156 #28320 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 00:35:09.973 #14144 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 00:35:10.314 #14144 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 00:35:10.314 #14144 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @171ms
+INFO  2026-08-18 00:35:10.315 #14144 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=512ms pid=14144 v=4.0.6
+WARN  2026-08-18 00:35:16.470 #14144 [-smarthttp-4][*][o.n.s.c.PluginEntity]: 
+The configured plugin cannot load: yh.hotplugin.add1.DemoPlugin
+WARN  2026-08-18 00:35:20.093 #14144 [-smarthttp-7][*][o.n.s.c.r.RoutingDefault]: 
+The routing replaced: '/plugin/hi'
+INFO  2026-08-18 00:36:09.614 #14144 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 00:36:09.616 #14144 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 00:36:10.776 #23260 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 00:36:11.118 #23260 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 00:36:11.118 #23260 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @170ms
+INFO  2026-08-18 00:36:11.118 #23260 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=583ms pid=23260 v=4.0.6
+INFO  2026-08-18 00:36:23.388 #23260 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 00:36:23.390 #23260 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 00:37:00.688 #19812 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 00:37:01.035 #19812 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 00:37:01.035 #19812 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @156ms
+INFO  2026-08-18 00:37:01.036 #19812 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=565ms pid=19812 v=4.0.6
+WARN  2026-08-18 00:37:32.219 #19812 [-smarthttp-7][*][o.n.s.c.PluginEntity]: 
+The configured plugin cannot load: yh.hotplugin.add1.DemoPlugin
+INFO  2026-08-18 00:38:35.795 #19812 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 00:38:35.796 #19812 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 06:25:47.593 #16320 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 06:25:47.970 #16320 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 06:25:47.970 #16320 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @172ms
+INFO  2026-08-18 06:25:47.971 #16320 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=617ms pid=16320 v=4.0.6
+INFO  2026-08-18 06:28:23.118 #16320 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 06:28:23.120 #16320 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 06:28:47.764 #19128 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 06:28:48.136 #19128 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 06:28:48.136 #19128 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @186ms
+INFO  2026-08-18 06:28:48.137 #19128 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=562ms pid=19128 v=4.0.6
+INFO  2026-08-18 06:41:34.444 #19128 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 06:41:34.446 #19128 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 06:41:36.417 #9672 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 06:41:36.792 #9672 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 06:41:36.792 #9672 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @179ms
+INFO  2026-08-18 06:41:36.793 #9672 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=553ms pid=9672 v=4.0.6
+WARN  2026-08-18 06:41:41.782 #9672 [-smarthttp-4][*][o.n.s.c.PluginEntity]: 
+The configured plugin cannot load: yh.hotplugin.add1.DemoPlugin
+INFO  2026-08-18 06:41:45.160 #9672 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 06:41:45.163 #9672 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 06:41:46.376 #12504 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 06:41:46.754 #12504 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 06:41:46.754 #12504 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @179ms
+INFO  2026-08-18 06:41:46.755 #12504 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=593ms pid=12504 v=4.0.6
+INFO  2026-08-18 06:42:14.020 #12504 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 06:42:14.022 #12504 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 06:42:15.082 #3884 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 06:42:15.489 #3884 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 06:42:15.490 #3884 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @205ms
+INFO  2026-08-18 06:42:15.490 #3884 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=600ms pid=3884 v=4.0.6
+INFO  2026-08-18 06:44:20.132 #3884 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 06:44:20.134 #3884 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 06:44:22.137 #20308 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 06:44:22.512 #20308 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 06:44:22.512 #20308 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @174ms
+INFO  2026-08-18 06:44:22.512 #20308 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=543ms pid=20308 v=4.0.6
+WARN  2026-08-18 06:44:29.817 #20308 [-smarthttp-3][*][o.n.s.c.PluginEntity]: 
+The configured plugin cannot load: yh.hotplugin.add1.DemoPlugin
+INFO  2026-08-18 06:44:35.695 #20308 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 06:44:35.698 #20308 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 06:44:36.771 #19940 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 06:44:37.137 #19940 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 06:44:37.137 #19940 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @186ms
+INFO  2026-08-18 06:44:37.138 #19940 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=562ms pid=19940 v=4.0.6
+INFO  2026-08-18 06:47:01.864 #19940 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 06:47:01.866 #19940 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 06:47:03.975 #7648 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 06:47:04.347 #7648 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 06:47:04.347 #7648 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @188ms
+INFO  2026-08-18 06:47:04.348 #7648 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=574ms pid=7648 v=4.0.6
+INFO  2026-08-18 06:47:31.438 #7648 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 06:47:31.440 #7648 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 06:47:32.498 #2088 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 06:47:32.878 #2088 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 06:47:32.879 #2088 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @186ms
+INFO  2026-08-18 06:47:32.879 #2088 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=555ms pid=2088 v=4.0.6
+WARN  2026-08-18 06:47:46.923 #2088 [-smarthttp-3][*][o.n.s.c.PluginEntity]: 
+The configured plugin cannot load: yh.hotplugin.add1.DemoPlugin
+INFO  2026-08-18 06:47:52.387 #2088 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 06:47:52.390 #2088 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 06:47:53.415 #11792 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 06:47:53.791 #11792 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 06:47:53.791 #11792 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @182ms
+INFO  2026-08-18 06:47:53.793 #11792 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=549ms pid=11792 v=4.0.6
+WARN  2026-08-18 06:48:03.902 #11792 [-smarthttp-3][*][o.n.s.c.PluginEntity]: 
+The configured plugin cannot load: yh.hotplugin.add1.DemoPlugin
+INFO  2026-08-18 06:48:08.354 #11792 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 06:48:08.357 #11792 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 06:48:09.361 #14384 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 06:48:09.739 #14384 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 06:48:09.739 #14384 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @177ms
+INFO  2026-08-18 06:48:09.739 #14384 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=551ms pid=14384 v=4.0.6
+INFO  2026-08-18 06:48:20.371 #14384 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 06:48:20.374 #14384 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 06:48:21.463 #18864 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 06:48:21.852 #18864 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 06:48:21.853 #18864 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @193ms
+INFO  2026-08-18 06:48:21.853 #18864 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=576ms pid=18864 v=4.0.6
+WARN  2026-08-18 06:48:28.403 #18864 [-smarthttp-3][*][o.n.s.c.PluginEntity]: 
+The configured plugin cannot load: yh.hotplugin.add1.DemoPlugin
+INFO  2026-08-18 06:48:32.723 #18864 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 06:48:32.726 #18864 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 06:48:33.766 #13764 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 06:48:34.143 #13764 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 06:48:34.143 #13764 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @184ms
+INFO  2026-08-18 06:48:34.144 #13764 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=555ms pid=13764 v=4.0.6
+INFO  2026-08-18 06:48:48.061 #13764 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 06:48:48.064 #13764 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 06:48:49.097 #452 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 06:48:49.463 #452 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 06:48:49.463 #452 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @173ms
+INFO  2026-08-18 06:48:49.464 #452 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=548ms pid=452 v=4.0.6
+INFO  2026-08-18 07:19:09.688 #452 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 07:19:09.692 #452 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 07:19:10.943 #10736 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 07:19:11.692 #10736 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 07:19:11.692 #10736 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @572ms
+INFO  2026-08-18 07:19:11.693 #10736 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=915ms pid=10736 v=4.0.6
+INFO  2026-08-18 07:19:28.980 #10736 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 07:19:28.983 #10736 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 07:19:30.072 #24520 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 07:19:30.418 #24520 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 07:19:30.418 #24520 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @172ms
+INFO  2026-08-18 07:19:30.419 #24520 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=515ms pid=24520 v=4.0.6
+WARN  2026-08-18 07:19:38.692 #24520 [-smarthttp-3][*][o.n.s.c.PluginEntity]: 
+The configured plugin cannot load: yh.hotplugin.add1.DemoPlugin
+INFO  2026-08-18 07:19:44.103 #24520 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 07:19:44.106 #24520 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 07:19:45.058 #20504 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 07:19:45.500 #20504 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 07:19:45.501 #20504 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @249ms
+INFO  2026-08-18 07:19:45.501 #20504 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=590ms pid=20504 v=4.0.6
+INFO  2026-08-18 07:22:26.221 #20504 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 07:22:26.223 #20504 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 07:22:27.376 #21104 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 07:22:27.748 #21104 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 07:22:27.748 #21104 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @180ms
+INFO  2026-08-18 07:22:27.749 #21104 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=551ms pid=21104 v=4.0.6
+INFO  2026-08-18 07:22:35.947 #21104 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 07:22:35.950 #21104 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 07:22:37.053 #16208 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 07:22:37.478 #16208 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 07:22:37.478 #16208 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @205ms
+INFO  2026-08-18 07:22:37.478 #16208 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=623ms pid=16208 v=4.0.6
+INFO  2026-08-18 07:22:57.608 #16208 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 07:22:57.610 #16208 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 07:22:59.034 #11308 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 07:22:59.416 #11308 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 07:22:59.417 #11308 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @185ms
+INFO  2026-08-18 07:22:59.417 #11308 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=540ms pid=11308 v=4.0.6
+INFO  2026-08-18 07:24:21.551 #11308 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 07:24:21.553 #11308 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 07:24:22.576 #25464 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 07:25:01.406 #25464 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 07:25:01.406 #25464 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @148ms
+INFO  2026-08-18 07:25:01.407 #25464 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=39008ms pid=25464 v=4.0.6
+INFO  2026-08-18 07:25:15.945 #25464 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 07:25:15.947 #25464 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 07:25:17.061 #21348 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 07:26:09.977 #21348 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 07:26:09.977 #21348 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @153ms
+INFO  2026-08-18 07:26:09.979 #21348 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=53132ms pid=21348 v=4.0.6
+INFO  2026-08-18 07:26:12.041 #21348 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 07:26:12.045 #21348 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 07:26:13.898 #22568 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 07:26:43.087 #22568 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 07:26:43.087 #22568 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @154ms
+INFO  2026-08-18 07:26:43.087 #22568 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=29364ms pid=22568 v=4.0.6
+INFO  2026-08-18 07:26:47.136 #22568 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 07:26:47.138 #22568 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 07:26:48.221 #1908 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 07:26:53.562 #1908 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 07:26:53.562 #1908 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @143ms
+INFO  2026-08-18 07:26:53.562 #1908 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=5587ms pid=1908 v=4.0.6
+INFO  2026-08-18 07:40:58.100 #1908 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 07:40:58.102 #1908 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 07:40:59.288 #23860 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 07:43:24.270 #2072 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 07:43:30.496 #2072 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 07:43:30.496 #2072 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @168ms
+INFO  2026-08-18 07:43:30.496 #2072 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=6387ms pid=2072 v=4.0.6
+INFO  2026-08-18 07:44:12.705 #2072 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 07:44:12.708 #2072 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 07:44:13.727 #22320 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 07:44:14.121 #22320 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 07:44:14.122 #22320 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @182ms
+INFO  2026-08-18 07:44:14.122 #22320 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=605ms pid=22320 v=4.0.6
+INFO  2026-08-18 07:47:46.983 #22320 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 07:47:46.985 #22320 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 07:47:48.802 #4384 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 07:47:49.168 #4384 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 07:47:49.169 #4384 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @178ms
+INFO  2026-08-18 07:47:49.169 #4384 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=537ms pid=4384 v=4.0.6
+INFO  2026-08-18 07:59:37.681 #4384 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 07:59:37.685 #4384 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 08:43:45.192 #21920 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 08:43:45.651 #21920 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 08:43:45.652 #21920 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @198ms
+INFO  2026-08-18 08:43:45.652 #21920 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=689ms pid=21920 v=4.0.6
+INFO  2026-08-18 14:07:07.136 #21920 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 14:07:07.154 #21920 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 14:07:10.667 #27128 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 14:07:11.342 #27128 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 14:07:11.343 #27128 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @394ms
+INFO  2026-08-18 14:07:11.343 #27128 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=920ms pid=27128 v=4.0.6
+INFO  2026-08-18 14:12:15.731 #27128 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 14:12:15.733 #27128 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 14:12:18.042 #4184 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 14:12:18.500 #4184 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 14:12:18.500 #4184 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @229ms
+INFO  2026-08-18 14:12:18.501 #4184 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=649ms pid=4184 v=4.0.6
+INFO  2026-08-18 14:19:11.929 #4184 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 14:19:11.932 #4184 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 14:19:13.066 #7440 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 14:19:13.486 #7440 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 14:19:13.487 #7440 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @205ms
+INFO  2026-08-18 14:19:13.487 #7440 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=627ms pid=7440 v=4.0.6
+INFO  2026-08-18 16:07:39.540 #7440 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 16:07:39.573 #7440 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 16:07:42.150 #28480 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 16:07:42.586 #28480 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 16:07:42.586 #28480 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @220ms
+INFO  2026-08-18 16:07:42.588 #28480 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=706ms pid=28480 v=4.0.6
+INFO  2026-08-18 17:42:03.942 #28480 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 17:42:03.965 #28480 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 22:54:45.604 #13192 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 22:54:46.073 #13192 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 22:54:46.074 #13192 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @198ms
+INFO  2026-08-18 22:54:46.075 #13192 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=705ms pid=13192 v=4.0.6
+INFO  2026-08-18 22:54:46.539 #4912 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+ERROR 2026-08-18 22:54:47.142 #4912 [-main][*][o.noear.solon.Solon]: 
+Solon start failed: Address already in use: bind
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at io.github.smartboot.socket.enhance.EnhanceAsynchronousServerSocketChannel.bind(EnhanceAsynchronousServerSocketChannel.java:112)
+	at io.github.smartboot.socket.transport.AioQuickServer.start(AioQuickServer.java:147)
+	at io.github.smartboot.socket.transport.AioQuickServer.start(AioQuickServer.java:112)
+	at org.smartboot.http.server.HttpBootstrap.start(HttpBootstrap.java:116)
+	at org.noear.solon.server.smarthttp.SmHttpServer.start(SmHttpServer.java:155)
+	at org.noear.solon.server.smarthttp.SmHttpServerComb.start(SmHttpServerComb.java:109)
+	at org.noear.solon.server.smarthttp.integration.SmHttpPlugin.start0(SmHttpPlugin.java:119)
+	at org.noear.solon.server.smarthttp.integration.SmHttpPlugin.access$000(SmHttpPlugin.java:34)
+	at org.noear.solon.server.smarthttp.integration.SmHttpPlugin$1.postStart(SmHttpPlugin.java:87)
+	at org.noear.solon.core.AppContext.postStartBeanLifecycle(AppContext.java:1328)
+	at org.noear.solon.core.AppContext.start(AppContext.java:1284)
+	at org.noear.solon.SolonApp.run(SolonApp.java:370)
+	at org.noear.solon.SolonApp.startDo(SolonApp.java:223)
+	at org.noear.solon.Solon.start(Solon.java:219)
+	at org.noear.solon.Solon.start(Solon.java:166)
+	at yh.hotplugin.main.HotPluginApp.main(HotPluginApp.java:20)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.noear.solon.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.noear.solon.loader.Launcher.launch(Launcher.java:95)
+	at org.noear.solon.loader.Launcher.launch(Launcher.java:58)
+	at org.noear.solon.loader.JarLauncher.main(JarLauncher.java:65)
+INFO  2026-08-18 22:54:47.146 #4912 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 22:54:47.148 #4912 [-main][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 23:00:19.354 #10848 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:00:20.044 #10848 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:00:20.045 #10848 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @469ms
+INFO  2026-08-18 23:00:20.046 #10848 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1004ms pid=10848 v=4.0.6
+INFO  2026-08-18 23:02:31.944 #10848 [-Thread-1][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 23:02:31.946 #10848 [-Thread-1][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 23:03:14.950 #29884 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:03:15.691 #29884 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:03:15.691 #29884 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @416ms
+INFO  2026-08-18 23:03:15.692 #29884 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=969ms pid=29884 v=4.0.6
+INFO  2026-08-18 23:05:10.326 #29884 [-Thread-1][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 23:05:10.327 #29884 [-Thread-1][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 23:15:01.980 #13192 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 23:15:01.991 #13192 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 23:15:05.928 #17220 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:15:06.791 #17220 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-18 23:15:06.792 #17220 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @407ms
+INFO  2026-08-18 23:15:06.793 #17220 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1085ms pid=17220 v=4.0.6
+INFO  2026-08-18 23:17:08.076 #22560 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:17:08.859 #22560 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:17:08.860 #22560 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @434ms
+INFO  2026-08-18 23:17:08.861 #22560 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1119ms pid=22560 v=4.0.6
+INFO  2026-08-18 23:18:55.808 #17220 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 23:18:55.811 #17220 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 23:18:57.144 #22560 [-Thread-1][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 23:18:57.146 #22560 [-Thread-1][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 23:19:17.681 #4968 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:19:18.440 #4968 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:19:18.441 #4968 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @420ms
+INFO  2026-08-18 23:19:18.442 #4968 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1094ms pid=4968 v=4.0.6
+INFO  2026-08-18 23:20:21.210 #4968 [-Thread-1][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 23:20:21.214 #4968 [-Thread-1][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 23:20:38.720 #10120 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:20:39.473 #10120 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:20:39.474 #10120 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @423ms
+INFO  2026-08-18 23:20:39.474 #10120 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1081ms pid=10120 v=4.0.6
+INFO  2026-08-18 23:22:08.565 #10120 [-Thread-1][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 23:22:08.568 #10120 [-Thread-1][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 23:22:31.291 #28888 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:22:31.498 #28888 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:22:32.687 #28888 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:22:32.902 #28888 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:22:32.902 #28888 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @36ms
+INFO  2026-08-18 23:22:32.903 #28888 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1855ms pid=28888 v=4.0.6
+INFO  2026-08-18 23:23:37.055 #28888 [-Thread-1][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-18 23:23:37.057 #28888 [-Thread-1][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 23:25:05.148 #11088 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:25:05.462 #11088 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+ERROR 2026-08-18 23:25:06.688 #11088 [-main][*][c.z.h.p.HikariPool]: 
+permission-plugin - Exception during pool initialization.
+java.sql.SQLException: Access denied for user ''@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:113)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:861)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:449)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:234)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:180)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at yh.hotplugin.system.infrastructure.JdbcAuthorizationRepository.<init>(JdbcAuthorizationRepository.java:5)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.start(SecureSystemSolonPlugin.java:6)
+	at org.noear.solon.core.PluginEntity.start(PluginEntity.java:118)
+	at org.noear.solon.hotplug.PluginPackage.start(PluginPackage.java:131)
+	at org.noear.solon.hotplug.PluginManager.start(PluginManager.java:133)
+	at yh.hotplugin.infrastructure.SolonPluginRuntime.start(SolonPluginRuntime.java:23)
+	at yh.hotplugin.application.PluginApplicationService.bootstrap(PluginApplicationService.java:50)
+	at yh.hotplugin.main.HotPluginApp.lambda$main$3(HotPluginApp.java:31)
+	at org.noear.solon.SolonApp.init(SolonApp.java:300)
+	at org.noear.solon.SolonApp.startDo(SolonApp.java:217)
+	at org.noear.solon.Solon.start(Solon.java:219)
+	at org.noear.solon.Solon.start(Solon.java:166)
+	at yh.hotplugin.main.HotPluginApp.main(HotPluginApp.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.noear.solon.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.noear.solon.loader.Launcher.launch(Launcher.java:95)
+	at org.noear.solon.loader.Launcher.launch(Launcher.java:58)
+	at org.noear.solon.loader.JarLauncher.main(JarLauncher.java:65)
+INFO  2026-08-18 23:25:07.146 #11088 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:25:07.147 #11088 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @236ms
+INFO  2026-08-18 23:25:07.148 #11088 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2330ms pid=11088 v=4.0.6
+INFO  2026-08-18 23:25:45.015 #25824 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:25:45.301 #25824 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:25:45.515 #25824 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:25:45.963 #25824 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:25:45.964 #25824 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @226ms
+INFO  2026-08-18 23:25:45.964 #25824 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1250ms pid=25824 v=4.0.6
+INFO  2026-08-18 23:36:58.291 #30352 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:36:58.622 #30352 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:36:58.882 #30352 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:36:59.517 #30352 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:36:59.517 #30352 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @200ms
+INFO  2026-08-18 23:36:59.518 #30352 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1575ms pid=30352 v=4.0.6
+INFO  2026-08-18 23:39:12.290 #24220 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+ERROR 2026-08-18 23:39:12.678 #24220 [-main][*][o.noear.solon.Solon]: 
+Solon start failed: Config verification failed: {plugin.system.datasource.password=${YHAMIN_DB_PASSWORD}, plugin.system.datasource.url=${YHAMIN_DB_URL}, plugin.system.datasource.username=${YHAMIN_DB_USERNAME}, plugin.system.redis.enabled=${YHAMIN_REDIS_ENABLED}, plugin.system.redis.host=${YHAMIN_REDIS_HOST}, plugin.system.redis.password=${YHAMIN_REDIS_PASSWORD}, plugin.system.redis.port=${YHAMIN_REDIS_PORT}}
+java.lang.IllegalStateException: Config verification failed: {plugin.system.datasource.password=${YHAMIN_DB_PASSWORD}, plugin.system.datasource.url=${YHAMIN_DB_URL}, plugin.system.datasource.username=${YHAMIN_DB_USERNAME}, plugin.system.redis.enabled=${YHAMIN_REDIS_ENABLED}, plugin.system.redis.host=${YHAMIN_REDIS_HOST}, plugin.system.redis.password=${YHAMIN_REDIS_PASSWORD}, plugin.system.redis.port=${YHAMIN_REDIS_PORT}}
+	at org.noear.solon.core.Props.reviseDo(Props.java:786)
+	at org.noear.solon.core.Props.complete(Props.java:761)
+	at org.noear.solon.SolonApp.run(SolonApp.java:336)
+	at org.noear.solon.SolonApp.startDo(SolonApp.java:223)
+	at org.noear.solon.Solon.start(Solon.java:219)
+	at org.noear.solon.Solon.start(Solon.java:166)
+	at yh.hotplugin.main.HotPluginApp.main(HotPluginApp.java:23)
+INFO  2026-08-18 23:39:12.681 #24220 [-main][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 23:39:33.136 #26108 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+ERROR 2026-08-18 23:39:33.569 #26108 [-main][*][o.noear.solon.Solon]: 
+Solon start failed: Config verification failed: {plugin.system.datasource.password=${YHAMIN_DB_PASSWORD}, plugin.system.datasource.url=${YHAMIN_DB_URL}, plugin.system.datasource.username=${YHAMIN_DB_USERNAME}, plugin.system.redis.enabled=${YHAMIN_REDIS_ENABLED}, plugin.system.redis.host=${YHAMIN_REDIS_HOST}, plugin.system.redis.password=${YHAMIN_REDIS_PASSWORD}, plugin.system.redis.port=${YHAMIN_REDIS_PORT}}
+java.lang.IllegalStateException: Config verification failed: {plugin.system.datasource.password=${YHAMIN_DB_PASSWORD}, plugin.system.datasource.url=${YHAMIN_DB_URL}, plugin.system.datasource.username=${YHAMIN_DB_USERNAME}, plugin.system.redis.enabled=${YHAMIN_REDIS_ENABLED}, plugin.system.redis.host=${YHAMIN_REDIS_HOST}, plugin.system.redis.password=${YHAMIN_REDIS_PASSWORD}, plugin.system.redis.port=${YHAMIN_REDIS_PORT}}
+	at org.noear.solon.core.Props.reviseDo(Props.java:786)
+	at org.noear.solon.core.Props.complete(Props.java:761)
+	at org.noear.solon.SolonApp.run(SolonApp.java:336)
+	at org.noear.solon.SolonApp.startDo(SolonApp.java:223)
+	at org.noear.solon.Solon.start(Solon.java:219)
+	at org.noear.solon.Solon.start(Solon.java:166)
+	at yh.hotplugin.main.HotPluginApp.main(HotPluginApp.java:23)
+INFO  2026-08-18 23:39:33.574 #26108 [-main][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 23:43:45.089 #1464 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:43:45.359 #1464 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:43:45.542 #1464 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:43:45.990 #1464 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:43:45.991 #1464 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @137ms
+INFO  2026-08-18 23:43:45.991 #1464 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1172ms pid=1464 v=4.0.6
+INFO  2026-08-18 23:47:05.380 #21964 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+ERROR 2026-08-18 23:47:05.787 #21964 [-main][*][o.noear.solon.Solon]: 
+Solon start failed: Config verification failed: {plugin.system.datasource.password=${YHAMIN_DB_PASSWORD}, plugin.system.datasource.url=${YHAMIN_DB_URL}, plugin.system.datasource.username=${YHAMIN_DB_USERNAME}, plugin.system.redis.enabled=${YHAMIN_REDIS_ENABLED}, plugin.system.redis.host=${YHAMIN_REDIS_HOST}, plugin.system.redis.password=${YHAMIN_REDIS_PASSWORD}, plugin.system.redis.port=${YHAMIN_REDIS_PORT}}
+java.lang.IllegalStateException: Config verification failed: {plugin.system.datasource.password=${YHAMIN_DB_PASSWORD}, plugin.system.datasource.url=${YHAMIN_DB_URL}, plugin.system.datasource.username=${YHAMIN_DB_USERNAME}, plugin.system.redis.enabled=${YHAMIN_REDIS_ENABLED}, plugin.system.redis.host=${YHAMIN_REDIS_HOST}, plugin.system.redis.password=${YHAMIN_REDIS_PASSWORD}, plugin.system.redis.port=${YHAMIN_REDIS_PORT}}
+	at org.noear.solon.core.Props.reviseDo(Props.java:786)
+	at org.noear.solon.core.Props.complete(Props.java:761)
+	at org.noear.solon.SolonApp.run(SolonApp.java:336)
+	at org.noear.solon.SolonApp.startDo(SolonApp.java:223)
+	at org.noear.solon.Solon.start(Solon.java:219)
+	at org.noear.solon.Solon.start(Solon.java:166)
+	at yh.hotplugin.main.HotPluginApp.main(HotPluginApp.java:23)
+INFO  2026-08-18 23:47:05.794 #21964 [-main][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-18 23:51:02.040 #29752 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:51:02.271 #29752 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:51:02.462 #29752 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:51:02.954 #29752 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:51:02.954 #29752 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @139ms
+INFO  2026-08-18 23:51:02.954 #29752 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1252ms pid=29752 v=4.0.6
+INFO  2026-08-18 23:52:28.692 #29752 [-smarthttp-7][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:52:28.701 #29752 [-smarthttp-7][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:53:47.267 #23632 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:53:47.564 #23632 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:53:47.747 #23632 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:53:48.143 #23632 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:53:48.144 #23632 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @138ms
+INFO  2026-08-18 23:53:48.144 #23632 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1142ms pid=23632 v=4.0.6
+INFO  2026-08-18 23:53:48.663 #23632 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:53:48.668 #23632 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:53:49.307 #14856 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:53:49.616 #14856 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:53:49.804 #14856 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:53:50.191 #14856 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:53:50.194 #14856 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @137ms
+INFO  2026-08-18 23:53:50.194 #14856 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1183ms pid=14856 v=4.0.6
+INFO  2026-08-18 23:53:50.582 #14856 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:53:50.589 #14856 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:53:51.191 #13764 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:53:51.510 #13764 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:53:51.696 #13764 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:53:52.068 #13764 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:53:52.070 #13764 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @131ms
+INFO  2026-08-18 23:53:52.070 #13764 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1154ms pid=13764 v=4.0.6
+INFO  2026-08-18 23:53:52.506 #13764 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:53:52.511 #13764 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:53:53.114 #15628 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:53:53.412 #15628 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:53:53.595 #15628 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:53:53.996 #15628 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:53:54.000 #15628 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @134ms
+INFO  2026-08-18 23:53:54.001 #15628 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1178ms pid=15628 v=4.0.6
+INFO  2026-08-18 23:53:54.423 #15628 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:53:54.428 #15628 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:53:55.012 #16156 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:53:55.327 #16156 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:53:55.505 #16156 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:53:55.897 #16156 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:53:55.897 #16156 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @135ms
+INFO  2026-08-18 23:53:55.898 #16156 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1149ms pid=16156 v=4.0.6
+INFO  2026-08-18 23:53:56.334 #16156 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:53:56.341 #16156 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:53:56.935 #22368 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:53:57.244 #22368 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:53:57.437 #22368 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:53:57.849 #22368 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:53:57.850 #22368 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @157ms
+INFO  2026-08-18 23:53:57.851 #22368 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1185ms pid=22368 v=4.0.6
+INFO  2026-08-18 23:53:58.231 #22368 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:53:58.240 #22368 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:53:58.826 #25932 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:53:59.135 #25932 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:53:59.320 #25932 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:53:59.708 #25932 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:53:59.712 #25932 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @131ms
+INFO  2026-08-18 23:53:59.712 #25932 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1141ms pid=25932 v=4.0.6
+INFO  2026-08-18 23:54:00.161 #25932 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:00.167 #25932 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:00.746 #25824 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:01.042 #25824 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:01.224 #25824 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:01.611 #25824 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:01.611 #25824 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @139ms
+INFO  2026-08-18 23:54:01.612 #25824 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1128ms pid=25824 v=4.0.6
+INFO  2026-08-18 23:54:02.081 #25824 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:02.087 #25824 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:02.662 #17328 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:02.970 #17328 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:03.156 #17328 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:03.541 #17328 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:03.541 #17328 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @133ms
+INFO  2026-08-18 23:54:03.542 #17328 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1132ms pid=17328 v=4.0.6
+INFO  2026-08-18 23:54:03.987 #17328 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:03.996 #17328 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:04.612 #2388 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:04.930 #2388 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:05.132 #2388 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:05.557 #2388 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:05.560 #2388 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @145ms
+INFO  2026-08-18 23:54:05.561 #2388 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1214ms pid=2388 v=4.0.6
+INFO  2026-08-18 23:54:05.892 #2388 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:05.898 #2388 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:06.515 #21232 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:06.849 #21232 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:07.057 #21232 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:07.512 #21232 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:07.517 #21232 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @151ms
+INFO  2026-08-18 23:54:07.518 #21232 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1291ms pid=21232 v=4.0.6
+INFO  2026-08-18 23:54:07.804 #21232 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:07.813 #21232 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:08.480 #19008 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:08.795 #19008 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:08.982 #19008 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:09.408 #19008 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:09.410 #19008 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @153ms
+INFO  2026-08-18 23:54:09.411 #19008 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1219ms pid=19008 v=4.0.6
+INFO  2026-08-18 23:54:09.723 #19008 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:09.731 #19008 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:10.338 #30260 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:10.682 #30260 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:10.878 #30260 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:11.465 #30260 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:11.466 #30260 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @163ms
+INFO  2026-08-18 23:54:11.466 #30260 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1417ms pid=30260 v=4.0.6
+INFO  2026-08-18 23:54:12.328 #30260 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:12.334 #30260 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:12.922 #25188 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:13.305 #25188 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:13.501 #25188 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:13.992 #25188 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:13.994 #25188 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @133ms
+INFO  2026-08-18 23:54:13.995 #25188 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1336ms pid=25188 v=4.0.6
+INFO  2026-08-18 23:54:14.324 #25188 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:14.330 #25188 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:14.929 #18128 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:15.252 #18128 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:15.440 #18128 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:15.851 #18128 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:15.855 #18128 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @140ms
+INFO  2026-08-18 23:54:15.856 #18128 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1201ms pid=18128 v=4.0.6
+INFO  2026-08-18 23:54:16.240 #18128 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:16.248 #18128 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:16.905 #25176 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:17.238 #25176 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:17.430 #25176 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:17.852 #25176 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:17.855 #25176 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @154ms
+INFO  2026-08-18 23:54:17.856 #25176 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1272ms pid=25176 v=4.0.6
+INFO  2026-08-18 23:54:18.119 #25176 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:18.126 #25176 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:18.780 #27768 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:19.182 #27768 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:19.385 #27768 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:19.790 #27768 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:19.794 #27768 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @149ms
+INFO  2026-08-18 23:54:19.795 #27768 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1331ms pid=27768 v=4.0.6
+INFO  2026-08-18 23:54:20.011 #27768 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:20.020 #27768 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:20.629 #30640 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:21.124 #30640 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:21.334 #30640 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:21.824 #30640 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:21.827 #30640 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @149ms
+INFO  2026-08-18 23:54:21.828 #30640 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1479ms pid=30640 v=4.0.6
+INFO  2026-08-18 23:54:22.526 #30640 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:22.535 #30640 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:23.639 #1776 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:24.136 #1776 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:24.372 #1776 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:24.908 #1776 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:24.912 #1776 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @171ms
+INFO  2026-08-18 23:54:24.913 #1776 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1811ms pid=1776 v=4.0.6
+INFO  2026-08-18 23:54:25.547 #1776 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:25.559 #1776 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:26.307 #14664 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:26.689 #14664 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:26.912 #14664 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:27.779 #14664 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:27.780 #14664 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @532ms
+INFO  2026-08-18 23:54:27.781 #14664 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1830ms pid=14664 v=4.0.6
+INFO  2026-08-18 23:54:28.230 #14664 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:28.247 #14664 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:29.500 #30528 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:30.154 #30528 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:30.512 #30528 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:31.147 #30528 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:31.148 #30528 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @255ms
+INFO  2026-08-18 23:54:31.151 #30528 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2237ms pid=30528 v=4.0.6
+INFO  2026-08-18 23:54:31.905 #30528 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:31.919 #30528 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:32.864 #19704 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:33.314 #19704 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:33.545 #19704 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:34.103 #19704 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:34.105 #19704 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @175ms
+INFO  2026-08-18 23:54:34.105 #19704 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1637ms pid=19704 v=4.0.6
+INFO  2026-08-18 23:54:34.506 #19704 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:34.519 #19704 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:35.335 #11396 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:35.799 #11396 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:36.127 #11396 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:36.628 #11396 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:36.734 #11396 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @177ms
+INFO  2026-08-18 23:54:36.735 #11396 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1805ms pid=11396 v=4.0.6
+INFO  2026-08-18 23:54:37.019 #11396 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:37.027 #11396 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:38.166 #24644 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:38.819 #24644 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:39.336 #24644 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:40.235 #24644 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:40.236 #24644 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @252ms
+INFO  2026-08-18 23:54:40.238 #24644 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2679ms pid=24644 v=4.0.6
+INFO  2026-08-18 23:54:40.689 #24644 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:40.701 #24644 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:41.410 #27740 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:41.776 #27740 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:41.987 #27740 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:42.446 #27740 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:42.455 #27740 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @170ms
+INFO  2026-08-18 23:54:42.458 #27740 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1361ms pid=27740 v=4.0.6
+INFO  2026-08-18 23:54:43.236 #27740 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:43.253 #27740 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:44.070 #20780 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:44.478 #20780 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:44.696 #20780 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:45.171 #20780 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:45.175 #20780 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @156ms
+INFO  2026-08-18 23:54:45.176 #20780 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1504ms pid=20780 v=4.0.6
+INFO  2026-08-18 23:54:45.779 #20780 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:45.786 #20780 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:46.545 #28840 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:46.911 #28840 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:47.125 #28840 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:47.670 #28840 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:47.672 #28840 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @181ms
+INFO  2026-08-18 23:54:47.676 #28840 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1457ms pid=28840 v=4.0.6
+INFO  2026-08-18 23:54:48.305 #28840 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:48.314 #28840 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:49.015 #17124 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:49.482 #17124 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:49.708 #17124 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:50.182 #17124 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:50.187 #17124 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @162ms
+INFO  2026-08-18 23:54:50.187 #17124 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1514ms pid=17124 v=4.0.6
+INFO  2026-08-18 23:54:50.829 #17124 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:50.841 #17124 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:51.607 #3132 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:52.054 #3132 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:52.271 #3132 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:53.240 #3132 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:53.240 #3132 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @666ms
+INFO  2026-08-18 23:54:53.241 #3132 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2018ms pid=3132 v=4.0.6
+INFO  2026-08-18 23:54:53.877 #3132 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:53.885 #3132 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:54.618 #18828 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:55.000 #18828 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:55.231 #18828 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:55.833 #18828 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:55.841 #18828 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @228ms
+INFO  2026-08-18 23:54:55.844 #18828 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1593ms pid=18828 v=4.0.6
+INFO  2026-08-18 23:54:56.398 #18828 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:56.411 #18828 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:57.136 #7988 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:54:57.516 #7988 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:54:57.738 #7988 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:54:58.227 #7988 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:54:58.228 #7988 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @174ms
+INFO  2026-08-18 23:54:58.229 #7988 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1415ms pid=7988 v=4.0.6
+INFO  2026-08-18 23:54:58.936 #7988 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:54:58.942 #7988 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:54:59.813 #28448 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:00.284 #28448 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:00.493 #28448 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:00.935 #28448 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:00.939 #28448 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @156ms
+INFO  2026-08-18 23:55:00.940 #28448 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1599ms pid=28448 v=4.0.6
+INFO  2026-08-18 23:55:01.455 #28448 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:01.463 #28448 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:02.176 #20528 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:02.541 #20528 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:02.805 #20528 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:03.305 #20528 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:03.307 #20528 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @178ms
+INFO  2026-08-18 23:55:03.309 #20528 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1477ms pid=20528 v=4.0.6
+INFO  2026-08-18 23:55:04.014 #20528 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:04.021 #20528 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:04.788 #7592 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:05.180 #7592 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:05.420 #7592 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:05.925 #7592 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:05.926 #7592 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @187ms
+INFO  2026-08-18 23:55:05.927 #7592 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1511ms pid=7592 v=4.0.6
+INFO  2026-08-18 23:55:06.567 #7592 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:06.574 #7592 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:07.375 #30660 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:08.075 #30660 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:08.330 #30660 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:08.864 #30660 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:08.865 #30660 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @190ms
+INFO  2026-08-18 23:55:08.866 #30660 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1897ms pid=30660 v=4.0.6
+INFO  2026-08-18 23:55:09.611 #30660 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:09.620 #30660 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:10.380 #30688 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:10.816 #30688 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:11.052 #30688 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:11.623 #30688 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:11.624 #30688 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @199ms
+INFO  2026-08-18 23:55:11.626 #30688 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1597ms pid=30688 v=4.0.6
+INFO  2026-08-18 23:55:12.162 #30688 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:12.170 #30688 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:12.985 #22388 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:13.432 #22388 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:13.688 #22388 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:14.304 #22388 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:14.307 #22388 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @173ms
+INFO  2026-08-18 23:55:14.308 #22388 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1737ms pid=22388 v=4.0.6
+INFO  2026-08-18 23:55:14.677 #22388 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:14.685 #22388 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:15.429 #28368 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:15.902 #28368 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:16.151 #28368 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:16.658 #28368 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:16.659 #28368 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @160ms
+INFO  2026-08-18 23:55:16.660 #28368 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1602ms pid=28368 v=4.0.6
+INFO  2026-08-18 23:55:17.183 #28368 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:17.191 #28368 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:17.984 #27092 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:18.412 #27092 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:18.650 #27092 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:19.140 #27092 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:19.144 #27092 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @160ms
+INFO  2026-08-18 23:55:19.145 #27092 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1491ms pid=27092 v=4.0.6
+INFO  2026-08-18 23:55:19.743 #27092 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:19.752 #27092 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:20.571 #21008 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:20.958 #21008 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:21.250 #21008 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:21.763 #21008 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:21.767 #21008 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @169ms
+INFO  2026-08-18 23:55:21.768 #21008 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1549ms pid=21008 v=4.0.6
+INFO  2026-08-18 23:55:22.289 #21008 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:22.297 #21008 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:23.190 #26880 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:23.685 #26880 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:23.948 #26880 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:24.460 #26880 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:24.464 #26880 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @188ms
+INFO  2026-08-18 23:55:24.465 #26880 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1767ms pid=26880 v=4.0.6
+INFO  2026-08-18 23:55:24.872 #26880 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:24.884 #26880 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:25.708 #26444 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:26.167 #26444 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:26.440 #26444 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:27.030 #26444 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:27.034 #26444 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @181ms
+INFO  2026-08-18 23:55:27.036 #26444 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1694ms pid=26444 v=4.0.6
+INFO  2026-08-18 23:55:27.426 #26444 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:27.434 #26444 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:28.306 #27764 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:28.731 #27764 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:29.016 #27764 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:29.488 #27764 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:29.489 #27764 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @157ms
+INFO  2026-08-18 23:55:29.490 #27764 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1586ms pid=27764 v=4.0.6
+INFO  2026-08-18 23:55:29.945 #27764 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:29.952 #27764 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:30.710 #10464 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:31.158 #10464 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:31.454 #10464 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:31.990 #10464 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:31.994 #10464 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @185ms
+INFO  2026-08-18 23:55:31.997 #10464 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1657ms pid=10464 v=4.0.6
+INFO  2026-08-18 23:55:32.502 #10464 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:32.513 #10464 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:33.328 #16648 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:33.729 #16648 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:33.964 #16648 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:34.467 #16648 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:34.471 #16648 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @170ms
+INFO  2026-08-18 23:55:34.472 #16648 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1527ms pid=16648 v=4.0.6
+INFO  2026-08-18 23:55:35.040 #16648 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:35.049 #16648 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:35.872 #24096 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:36.410 #24096 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:36.640 #24096 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:37.165 #24096 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:37.166 #24096 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @188ms
+INFO  2026-08-18 23:55:37.167 #24096 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1682ms pid=24096 v=4.0.6
+INFO  2026-08-18 23:55:37.616 #24096 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:37.625 #24096 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:38.573 #19204 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:39.039 #19204 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:39.301 #19204 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:39.927 #19204 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:39.931 #19204 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @248ms
+INFO  2026-08-18 23:55:39.932 #19204 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1780ms pid=19204 v=4.0.6
+INFO  2026-08-18 23:55:40.627 #19204 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:40.637 #19204 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:41.330 #7820 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:41.704 #7820 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:41.923 #7820 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:42.379 #7820 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:42.383 #7820 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @154ms
+INFO  2026-08-18 23:55:42.384 #7820 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1392ms pid=7820 v=4.0.6
+INFO  2026-08-18 23:55:43.185 #7820 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:43.197 #7820 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:43.999 #26868 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:44.446 #26868 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:44.669 #26868 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:45.175 #26868 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:45.179 #26868 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @170ms
+INFO  2026-08-18 23:55:45.180 #26868 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1552ms pid=26868 v=4.0.6
+INFO  2026-08-18 23:55:45.697 #26868 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:45.704 #26868 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:46.474 #26676 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:46.841 #26676 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:47.064 #26676 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:47.617 #26676 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:47.636 #26676 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @189ms
+INFO  2026-08-18 23:55:47.637 #26676 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1563ms pid=26676 v=4.0.6
+INFO  2026-08-18 23:55:48.222 #26676 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:48.229 #26676 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:48.939 #28612 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:49.306 #28612 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:49.543 #28612 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:50.067 #28612 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:50.170 #28612 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @150ms
+INFO  2026-08-18 23:55:50.171 #28612 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1570ms pid=28612 v=4.0.6
+INFO  2026-08-18 23:55:50.724 #28612 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:50.730 #28612 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:51.525 #26612 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:52.165 #26612 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:52.452 #26612 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:53.006 #26612 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:53.078 #26612 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @235ms
+INFO  2026-08-18 23:55:53.083 #26612 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1986ms pid=26612 v=4.0.6
+INFO  2026-08-18 23:55:53.324 #26612 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:53.331 #26612 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:54.020 #9944 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:54.400 #9944 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:54.611 #9944 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:55.432 #9944 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:55.435 #9944 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @232ms
+INFO  2026-08-18 23:55:55.436 #9944 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1742ms pid=9944 v=4.0.6
+INFO  2026-08-18 23:55:55.858 #9944 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:55.864 #9944 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:56.602 #14876 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:57.024 #14876 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:57.247 #14876 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:55:57.733 #14876 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:55:57.734 #14876 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @159ms
+INFO  2026-08-18 23:55:57.735 #14876 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1454ms pid=14876 v=4.0.6
+INFO  2026-08-18 23:55:58.360 #14876 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:55:58.367 #14876 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:55:59.048 #16576 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:55:59.433 #16576 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:55:59.681 #16576 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:00.220 #16576 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:00.221 #16576 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @160ms
+INFO  2026-08-18 23:56:00.222 #16576 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1497ms pid=16576 v=4.0.6
+INFO  2026-08-18 23:56:00.872 #16576 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:00.882 #16576 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:01.615 #29024 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:02.014 #29024 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:02.233 #29024 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:02.867 #29024 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:02.867 #29024 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @178ms
+INFO  2026-08-18 23:56:02.868 #29024 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1610ms pid=29024 v=4.0.6
+INFO  2026-08-18 23:56:03.406 #29024 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:03.415 #29024 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:04.349 #2380 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:04.730 #2380 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:04.975 #2380 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:05.480 #2380 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:05.482 #2380 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @178ms
+INFO  2026-08-18 23:56:05.482 #2380 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1534ms pid=2380 v=4.0.6
+INFO  2026-08-18 23:56:05.920 #2380 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:05.928 #2380 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:06.653 #12976 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:07.259 #12976 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:07.573 #12976 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:08.348 #12976 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:08.349 #12976 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @243ms
+INFO  2026-08-18 23:56:08.350 #12976 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2046ms pid=12976 v=4.0.6
+INFO  2026-08-18 23:56:08.959 #12976 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:08.969 #12976 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:09.724 #27224 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:10.130 #27224 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:10.366 #27224 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:10.907 #27224 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:10.908 #27224 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @173ms
+INFO  2026-08-18 23:56:10.909 #27224 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1560ms pid=27224 v=4.0.6
+INFO  2026-08-18 23:56:11.498 #27224 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:11.508 #27224 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:12.321 #1576 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:12.700 #1576 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:12.940 #1576 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:13.428 #1576 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:13.432 #1576 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @150ms
+INFO  2026-08-18 23:56:13.436 #1576 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1478ms pid=1576 v=4.0.6
+INFO  2026-08-18 23:56:14.063 #1576 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:14.077 #1576 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:14.858 #21388 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:15.271 #21388 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:15.543 #21388 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:16.088 #21388 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:16.089 #21388 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @191ms
+INFO  2026-08-18 23:56:16.090 #21388 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1565ms pid=21388 v=4.0.6
+INFO  2026-08-18 23:56:16.605 #21388 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:16.614 #21388 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:17.354 #12908 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:17.832 #12908 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:18.114 #12908 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:18.656 #12908 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:18.660 #12908 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @177ms
+INFO  2026-08-18 23:56:18.661 #12908 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1638ms pid=12908 v=4.0.6
+INFO  2026-08-18 23:56:19.130 #12908 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:19.138 #12908 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:20.005 #30372 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:20.421 #30372 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:20.664 #30372 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:21.162 #30372 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:21.164 #30372 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @175ms
+INFO  2026-08-18 23:56:21.164 #30372 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1580ms pid=30372 v=4.0.6
+INFO  2026-08-18 23:56:21.695 #30372 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:21.703 #30372 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:22.459 #7792 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:22.863 #7792 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:23.132 #7792 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:23.736 #7792 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:23.765 #7792 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @197ms
+INFO  2026-08-18 23:56:23.766 #7792 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1655ms pid=7792 v=4.0.6
+INFO  2026-08-18 23:56:24.236 #7792 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:24.247 #7792 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:25.050 #19804 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:25.498 #19804 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:25.730 #19804 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:26.259 #19804 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:26.260 #19804 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @179ms
+INFO  2026-08-18 23:56:26.261 #19804 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1612ms pid=19804 v=4.0.6
+INFO  2026-08-18 23:56:26.751 #19804 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:26.762 #19804 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:27.539 #19348 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:28.053 #19348 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:28.306 #19348 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:28.832 #19348 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:28.849 #19348 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @182ms
+INFO  2026-08-18 23:56:28.851 #19348 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1705ms pid=19348 v=4.0.6
+INFO  2026-08-18 23:56:29.305 #19348 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:29.311 #19348 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:30.104 #15464 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:30.501 #15464 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:30.747 #15464 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:31.220 #15464 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:31.222 #15464 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @175ms
+INFO  2026-08-18 23:56:31.222 #15464 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1492ms pid=15464 v=4.0.6
+INFO  2026-08-18 23:56:31.872 #15464 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:31.894 #15464 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:32.776 #22352 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:33.198 #22352 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:33.448 #22352 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:33.963 #22352 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:33.964 #22352 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @186ms
+INFO  2026-08-18 23:56:33.964 #22352 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1608ms pid=22352 v=4.0.6
+INFO  2026-08-18 23:56:34.454 #22352 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:34.462 #22352 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:35.222 #22220 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:35.861 #22220 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:36.124 #22220 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:36.779 #22220 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:36.784 #22220 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @176ms
+INFO  2026-08-18 23:56:36.785 #22220 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1925ms pid=22220 v=4.0.6
+INFO  2026-08-18 23:56:37.599 #22220 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:37.608 #22220 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:38.696 #22232 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:39.215 #22232 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:39.516 #22232 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:40.096 #22232 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:40.097 #22232 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @166ms
+INFO  2026-08-18 23:56:40.098 #22232 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1968ms pid=22232 v=4.0.6
+INFO  2026-08-18 23:56:40.612 #22232 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:40.619 #22232 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:41.332 #28996 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:41.722 #28996 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:41.946 #28996 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:42.416 #28996 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:42.417 #28996 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @158ms
+INFO  2026-08-18 23:56:42.418 #28996 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1427ms pid=28996 v=4.0.6
+INFO  2026-08-18 23:56:43.110 #28996 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:43.117 #28996 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:44.078 #24612 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:44.461 #24612 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:44.686 #24612 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:45.152 #24612 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:45.157 #24612 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @166ms
+INFO  2026-08-18 23:56:45.158 #24612 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1531ms pid=24612 v=4.0.6
+INFO  2026-08-18 23:56:45.624 #24612 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:45.631 #24612 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:46.347 #30144 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:46.735 #30144 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:47.019 #30144 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:47.521 #30144 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:47.524 #30144 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @176ms
+INFO  2026-08-18 23:56:47.527 #30144 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1526ms pid=30144 v=4.0.6
+INFO  2026-08-18 23:56:48.173 #30144 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:48.182 #30144 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:48.898 #27224 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:49.283 #27224 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:49.512 #27224 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:50.009 #27224 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:50.010 #27224 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @178ms
+INFO  2026-08-18 23:56:50.010 #27224 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1455ms pid=27224 v=4.0.6
+INFO  2026-08-18 23:56:50.777 #27224 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:50.784 #27224 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:51.789 #23860 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:52.392 #23860 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:52.682 #23860 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:53.351 #23860 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:53.355 #23860 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @234ms
+INFO  2026-08-18 23:56:53.356 #23860 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2187ms pid=23860 v=4.0.6
+INFO  2026-08-18 23:56:53.890 #23860 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:53.898 #23860 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:54.599 #23820 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:54.975 #23820 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:55.245 #23820 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:55.815 #23820 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:55.816 #23820 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @190ms
+INFO  2026-08-18 23:56:55.817 #23820 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1533ms pid=23820 v=4.0.6
+INFO  2026-08-18 23:56:56.396 #23820 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:56.408 #23820 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:57.112 #26696 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:56:57.556 #26696 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:56:57.773 #26696 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:56:58.226 #26696 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:56:58.227 #26696 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @159ms
+INFO  2026-08-18 23:56:58.228 #26696 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1444ms pid=26696 v=4.0.6
+INFO  2026-08-18 23:56:58.917 #26696 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:56:58.928 #26696 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:56:59.806 #28136 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:00.293 #28136 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:00.532 #28136 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:01.085 #28136 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:01.088 #28136 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @233ms
+INFO  2026-08-18 23:57:01.089 #28136 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1730ms pid=28136 v=4.0.6
+INFO  2026-08-18 23:57:01.456 #28136 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:01.464 #28136 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:02.215 #14756 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:02.629 #14756 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:02.868 #14756 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:03.412 #14756 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:03.412 #14756 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @210ms
+INFO  2026-08-18 23:57:03.414 #14756 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1553ms pid=14756 v=4.0.6
+INFO  2026-08-18 23:57:04.044 #14756 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:04.054 #14756 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:04.890 #9276 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:05.304 #9276 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:05.548 #9276 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:06.091 #9276 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:06.092 #9276 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @188ms
+INFO  2026-08-18 23:57:06.093 #9276 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1636ms pid=9276 v=4.0.6
+INFO  2026-08-18 23:57:06.567 #9276 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:06.576 #9276 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:07.392 #10628 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:07.973 #10628 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:08.338 #10628 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:08.947 #10628 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:08.952 #10628 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @246ms
+INFO  2026-08-18 23:57:08.955 #10628 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1998ms pid=10628 v=4.0.6
+INFO  2026-08-18 23:57:09.579 #10628 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:09.588 #10628 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:10.444 #8300 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:10.880 #8300 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:11.122 #8300 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:11.662 #8300 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:11.666 #8300 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @188ms
+INFO  2026-08-18 23:57:11.667 #8300 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1636ms pid=8300 v=4.0.6
+INFO  2026-08-18 23:57:12.135 #8300 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:12.140 #8300 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:12.923 #29720 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:13.332 #29720 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:13.574 #29720 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:14.097 #29720 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:14.101 #29720 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @159ms
+INFO  2026-08-18 23:57:14.102 #29720 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1510ms pid=29720 v=4.0.6
+INFO  2026-08-18 23:57:14.686 #29720 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:14.694 #29720 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:15.502 #27424 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:16.061 #27424 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:16.300 #27424 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:16.822 #27424 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:16.828 #27424 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @178ms
+INFO  2026-08-18 23:57:16.829 #27424 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1731ms pid=27424 v=4.0.6
+INFO  2026-08-18 23:57:17.204 #27424 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:17.214 #27424 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:17.979 #2900 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:18.392 #2900 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:18.624 #2900 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:19.114 #2900 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:19.115 #2900 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @163ms
+INFO  2026-08-18 23:57:19.116 #2900 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1497ms pid=2900 v=4.0.6
+INFO  2026-08-18 23:57:19.751 #2900 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:19.763 #2900 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:20.581 #27500 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:21.010 #27500 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:21.256 #27500 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:21.776 #27500 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:21.827 #27500 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @172ms
+INFO  2026-08-18 23:57:21.829 #27500 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1619ms pid=27500 v=4.0.6
+INFO  2026-08-18 23:57:22.272 #27500 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:22.284 #27500 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:23.161 #15564 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:23.750 #15564 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:24.026 #15564 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:24.605 #15564 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:24.606 #15564 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @182ms
+INFO  2026-08-18 23:57:24.607 #15564 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1933ms pid=15564 v=4.0.6
+INFO  2026-08-18 23:57:25.312 #15564 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:25.325 #15564 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:26.185 #21600 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:26.587 #21600 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:26.826 #21600 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:27.356 #21600 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:27.362 #21600 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @200ms
+INFO  2026-08-18 23:57:27.364 #21600 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1639ms pid=21600 v=4.0.6
+INFO  2026-08-18 23:57:27.896 #21600 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:27.906 #21600 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:28.702 #21656 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:29.116 #21656 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:29.359 #21656 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:29.919 #21656 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:29.923 #21656 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @182ms
+INFO  2026-08-18 23:57:29.925 #21656 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1583ms pid=21656 v=4.0.6
+INFO  2026-08-18 23:57:30.439 #21656 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:30.450 #21656 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:31.205 #29952 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:31.667 #29952 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:31.944 #29952 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:32.481 #29952 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:32.485 #29952 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @184ms
+INFO  2026-08-18 23:57:32.486 #29952 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1640ms pid=29952 v=4.0.6
+INFO  2026-08-18 23:57:32.971 #29952 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:32.979 #29952 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:33.804 #27280 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:34.215 #27280 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:34.462 #27280 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:34.985 #27280 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:34.988 #27280 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @192ms
+INFO  2026-08-18 23:57:34.989 #27280 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1610ms pid=27280 v=4.0.6
+INFO  2026-08-18 23:57:35.541 #27280 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:35.548 #27280 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:36.382 #27344 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:36.785 #27344 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:37.026 #27344 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:37.632 #27344 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:37.637 #27344 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @218ms
+INFO  2026-08-18 23:57:37.640 #27344 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1623ms pid=27344 v=4.0.6
+INFO  2026-08-18 23:57:38.126 #27344 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:38.134 #27344 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:38.951 #26552 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:39.461 #26552 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:39.723 #26552 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:40.350 #26552 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:40.352 #26552 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @210ms
+INFO  2026-08-18 23:57:40.355 #26552 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1749ms pid=26552 v=4.0.6
+INFO  2026-08-18 23:57:40.711 #26552 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:40.733 #26552 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:41.742 #27144 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:42.117 #27144 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:42.331 #27144 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:42.814 #27144 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:42.817 #27144 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @167ms
+INFO  2026-08-18 23:57:42.819 #27144 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1547ms pid=27144 v=4.0.6
+INFO  2026-08-18 23:57:43.291 #27144 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:43.302 #27144 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:44.137 #30664 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:44.531 #30664 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:44.757 #30664 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:45.268 #30664 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:45.274 #30664 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @197ms
+INFO  2026-08-18 23:57:45.275 #30664 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1528ms pid=30664 v=4.0.6
+INFO  2026-08-18 23:57:45.827 #30664 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:45.835 #30664 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:46.548 #20352 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:46.947 #20352 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:47.191 #20352 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:47.753 #20352 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:47.819 #20352 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @207ms
+INFO  2026-08-18 23:57:47.820 #20352 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1604ms pid=20352 v=4.0.6
+INFO  2026-08-18 23:57:48.338 #20352 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:48.346 #20352 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:49.125 #27724 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:49.504 #27724 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:49.741 #27724 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:50.220 #27724 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:50.224 #27724 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @164ms
+INFO  2026-08-18 23:57:50.225 #27724 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1454ms pid=27724 v=4.0.6
+INFO  2026-08-18 23:57:50.846 #27724 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:50.854 #27724 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:51.684 #20812 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:52.146 #20812 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:52.421 #20812 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:52.924 #20812 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:52.925 #20812 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @157ms
+INFO  2026-08-18 23:57:52.925 #20812 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1694ms pid=20812 v=4.0.6
+INFO  2026-08-18 23:57:53.424 #20812 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:53.447 #20812 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:54.202 #30652 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:54.602 #30652 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:54.822 #30652 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:55.340 #30652 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:55.341 #30652 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @210ms
+INFO  2026-08-18 23:57:55.342 #30652 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1485ms pid=30652 v=4.0.6
+INFO  2026-08-18 23:57:56.022 #30652 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:56.031 #30652 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-18 23:57:56.771 #25712 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-18 23:57:57.140 #25712 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-18 23:57:57.370 #25712 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-18 23:57:57.845 #25712 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:18080}
+INFO  2026-08-18 23:57:57.846 #25712 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @159ms
+INFO  2026-08-18 23:57:57.847 #25712 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1421ms pid=25712 v=4.0.6
+INFO  2026-08-18 23:57:58.573 #25712 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-18 23:57:58.581 #25712 [-smarthttp-2][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.

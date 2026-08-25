@@ -1,0 +1,1 @@
+package yh.hotplugin.security.api; public final class LoginResult {private final String tokenName,token;private final SecurityPrincipal principal;public LoginResult(String n,String t,SecurityPrincipal p){tokenName=n;token=t;principal=p;}public String getTokenName(){return tokenName;}public String getToken(){return token;}public SecurityPrincipal getPrincipal(){return principal;}}

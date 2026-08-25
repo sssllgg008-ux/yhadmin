@@ -1,0 +1,10 @@
+/* ============================================================
+   全局样式入口
+   ============================================================ */
+@use './theme.scss';
+@use './reset.scss';
+@use './element-plus.scss';
+@use './layout.scss';
+
+/* NProgress 进度条 */
+@use 'nprogress/nprogress.css';

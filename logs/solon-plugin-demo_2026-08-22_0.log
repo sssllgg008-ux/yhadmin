@@ -1,0 +1,28 @@
+INFO  2026-08-22 00:14:21.309 #28792 [-smarthttp-13][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-22 00:14:21.367 #28792 [-smarthttp-13][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-22 00:14:35.688 #28792 [-smarthttp-13][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-22 00:21:12.188 #28792 [-smarthttp-13][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-22 00:21:12.195 #28792 [-smarthttp-13][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-22 00:21:22.017 #28792 [-smarthttp-13][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-22 00:53:35.527 #28792 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-22 00:53:35.533 #28792 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-22 00:53:48.497 #28792 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-22 01:10:37.440 #28792 [-smarthttp-13][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-22 01:10:37.449 #28792 [-smarthttp-13][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-22 01:10:49.945 #28792 [-smarthttp-13][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-22 01:11:39.724 #28792 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-22 01:11:39.729 #28792 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped

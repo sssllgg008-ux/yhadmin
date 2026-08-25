@@ -1,0 +1,9 @@
+plugin:
+  name: plugin-demo-1.0.0
+  requires:
+    - pluginSystem
+  permissions:
+    - plugin:demo:view
+    - plugin:demo:edit
+  dataResources:
+    - demo:greeting

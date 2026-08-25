@@ -1,0 +1,318 @@
+INFO  2026-08-21 07:56:58.992 #22540 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-21 07:56:59.010 #22540 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-21 07:57:01.056 #22168 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-21 07:57:02.008 #22168 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 07:57:02.819 #22168 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-21 07:57:02.819 #22168 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @327ms
+INFO  2026-08-21 07:57:02.820 #22168 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1954ms pid=22168 v=4.0.6
+INFO  2026-08-21 07:58:22.120 #22168 [-smarthttp-11][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-21 07:58:22.129 #22168 [-smarthttp-11][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-21 07:58:53.983 #22168 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-21 07:58:53.984 #22168 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-21 08:03:18.254 #34092 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-21 08:03:19.578 #34092 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 08:03:20.493 #34092 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-21 08:03:20.493 #34092 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @287ms
+INFO  2026-08-21 08:03:20.494 #34092 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2571ms pid=34092 v=4.0.6
+INFO  2026-08-21 08:06:41.760 #34092 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-21 08:06:41.764 #34092 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-21 08:53:42.155 #17680 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-21 08:53:43.197 #17680 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 08:53:43.909 #17680 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-21 08:53:43.909 #17680 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @187ms
+INFO  2026-08-21 08:53:43.910 #17680 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1974ms pid=17680 v=4.0.6
+INFO  2026-08-21 09:51:32.509 #17680 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-21 09:51:32.539 #17680 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-21 09:51:41.046 #17680 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 09:51:42.261 #17680 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 09:55:43.395 #17680 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+WARN  2026-08-21 09:55:45.571 #17680 [-smarthttp-15][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+java.lang.NoSuchMethodError: 'void yh.hotplugin.security.api.SecurityPrincipal.<init>(long, long, java.lang.String, boolean)'
+	at yh.hotplugin.system.application.SystemPermissionProvider.principal(SystemPermissionProvider.java:34)
+	at yh.hotplugin.system.application.SystemPermissionProvider.principal(SystemPermissionProvider.java:20)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:39)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-21 09:55:47.445 #17680 [-smarthttp-15][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+java.lang.NoSuchMethodError: 'void yh.hotplugin.security.api.SecurityPrincipal.<init>(long, long, java.lang.String, boolean)'
+	at yh.hotplugin.system.application.SystemPermissionProvider.principal(SystemPermissionProvider.java:34)
+	at yh.hotplugin.system.application.SystemPermissionProvider.principal(SystemPermissionProvider.java:20)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:39)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-21 09:55:49.799 #17680 [-smarthttp-16][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+java.lang.NoSuchMethodError: 'void yh.hotplugin.security.api.SecurityPrincipal.<init>(long, long, java.lang.String, boolean)'
+	at yh.hotplugin.system.application.SystemPermissionProvider.principal(SystemPermissionProvider.java:34)
+	at yh.hotplugin.system.application.SystemPermissionProvider.principal(SystemPermissionProvider.java:20)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:39)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+INFO  2026-08-21 09:56:01.855 #17680 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-21 09:56:01.856 #17680 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-21 09:56:06.201 #10628 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-21 09:56:07.129 #10628 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 09:56:07.776 #10628 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-21 09:56:07.777 #10628 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @188ms
+INFO  2026-08-21 09:56:07.777 #10628 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1770ms pid=10628 v=4.0.6
+INFO  2026-08-21 09:56:19.087 #10628 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-21 09:56:19.103 #10628 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-21 09:56:20.395 #34420 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-21 09:56:20.780 #34420 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-21 09:56:20.780 #34420 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @190ms
+INFO  2026-08-21 09:56:20.781 #34420 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=550ms pid=34420 v=4.0.6
+INFO  2026-08-21 09:56:34.508 #34420 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-21 09:56:34.510 #34420 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-21 09:56:35.567 #32848 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-21 09:56:36.358 #32848 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 09:56:36.985 #32848 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-21 09:56:36.987 #32848 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @173ms
+INFO  2026-08-21 09:56:36.988 #32848 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1604ms pid=32848 v=4.0.6
+INFO  2026-08-21 09:56:45.124 #32848 [-smarthttp-8][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-21 09:56:45.143 #32848 [-smarthttp-8][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-21 11:01:21.603 #32848 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-21 11:01:21.625 #32848 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-21 11:01:23.147 #20868 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-21 11:01:24.045 #20868 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 11:01:24.636 #20868 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-21 11:01:24.636 #20868 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @168ms
+INFO  2026-08-21 11:01:24.637 #20868 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1677ms pid=20868 v=4.0.6
+INFO  2026-08-21 11:01:42.922 #20868 [-smarthttp-7][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-21 11:01:42.931 #20868 [-smarthttp-7][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-21 11:01:47.532 #20868 [-smarthttp-10][*][c.a.d.p.DruidDataSource]: 
+{dataSource-2} inited
+INFO  2026-08-21 11:04:48.474 #20868 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-2} closing ...
+INFO  2026-08-21 11:04:48.475 #20868 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-2} closed
+INFO  2026-08-21 11:06:09.743 #20868 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-21 11:06:09.745 #20868 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-21 11:06:11.873 #28132 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-21 11:06:13.071 #28132 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 11:06:13.966 #28132 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-21 11:06:13.966 #28132 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @214ms
+INFO  2026-08-21 11:06:13.967 #28132 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2337ms pid=28132 v=4.0.6
+INFO  2026-08-21 11:14:01.468 #28132 [-smarthttp-12][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-21 11:14:01.478 #28132 [-smarthttp-12][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-21 11:14:38.149 #28132 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 15:31:06.996 #28132 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-21 15:31:07.031 #28132 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-21 15:31:14.829 #28132 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 15:43:46.870 #28132 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-21 15:43:46.894 #28132 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-21 15:44:15.403 #28132 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 15:45:05.716 #28132 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-21 15:45:05.721 #28132 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-21 15:45:18.096 #28132 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 20:21:59.806 #13460 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-21 20:22:01.168 #13460 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 20:22:01.985 #13460 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-21 20:22:01.985 #13460 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @65ms
+INFO  2026-08-21 20:22:01.987 #13460 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2404ms pid=13460 v=4.0.6
+INFO  2026-08-21 20:23:12.727 #13460 [-smarthttp-11][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-21 20:23:12.731 #13460 [-smarthttp-11][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-21 20:23:22.919 #13460 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 22:31:15.365 #13460 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-21 22:31:15.399 #13460 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-21 22:31:30.235 #13460 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 22:33:09.869 #13460 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-21 22:33:09.870 #13460 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-21 22:33:13.006 #7252 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-21 22:33:13.906 #7252 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 22:33:15.247 #7252 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-21 22:33:15.247 #7252 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @163ms
+INFO  2026-08-21 22:33:15.248 #7252 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2455ms pid=7252 v=4.0.6
+INFO  2026-08-21 23:02:23.761 #7252 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-21 23:02:23.772 #7252 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-21 23:02:33.428 #7252 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 23:05:01.813 #7252 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-21 23:05:01.814 #7252 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-21 23:05:04.225 #28900 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-21 23:05:05.064 #28900 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 23:05:06.369 #28900 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-21 23:05:06.370 #28900 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @157ms
+INFO  2026-08-21 23:05:06.371 #28900 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2347ms pid=28900 v=4.0.6
+INFO  2026-08-21 23:13:37.638 #28900 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-21 23:13:37.645 #28900 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-21 23:13:40.356 #29332 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-21 23:13:41.727 #29332 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 23:13:43.226 #29332 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-21 23:13:43.227 #29332 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @180ms
+INFO  2026-08-21 23:13:43.228 #29332 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=4040ms pid=29332 v=4.0.6
+INFO  2026-08-21 23:14:07.620 #29332 [-smarthttp-8][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-21 23:14:07.629 #29332 [-smarthttp-8][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-21 23:14:20.779 #29332 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 23:27:36.280 #29332 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-21 23:27:36.281 #29332 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-21 23:27:39.447 #28792 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-21 23:27:40.481 #28792 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-21 23:27:41.862 #28792 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-21 23:27:41.862 #28792 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @158ms
+INFO  2026-08-21 23:27:41.863 #28792 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2816ms pid=28792 v=4.0.6
+INFO  2026-08-21 23:28:37.491 #28792 [-smarthttp-8][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-21 23:28:37.506 #28792 [-smarthttp-8][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-21 23:28:49.154 #28792 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited

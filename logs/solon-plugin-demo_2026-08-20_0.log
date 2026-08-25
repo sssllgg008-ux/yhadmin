@@ -1,0 +1,2052 @@
+INFO  2026-08-20 00:20:11.647 #8380 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 00:20:11.676 #8380 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 00:20:14.884 #12088 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 00:20:15.084 #12088 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-20 00:20:15.289 #12088 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-20 00:20:15.726 #12088 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 00:20:15.727 #12088 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @126ms
+INFO  2026-08-20 00:20:15.727 #12088 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1040ms pid=12088 v=4.0.6
+INFO  2026-08-20 00:22:57.257 #12088 [-smarthttp-7][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-20 00:22:57.263 #12088 [-smarthttp-7][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-20 00:23:04.196 #12088 [-smarthttp-9][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-20 00:23:04.202 #12088 [-smarthttp-9][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-20 00:23:12.040 #12088 [-smarthttp-12][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-20 00:23:12.041 #12088 [-smarthttp-12][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-20 00:23:22.972 #12088 [-smarthttp-14][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-20 00:23:22.976 #12088 [-smarthttp-14][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-20 08:17:58.299 #12088 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 08:17:58.304 #12088 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 08:18:02.367 #25488 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 08:18:02.584 #25488 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-20 08:18:02.782 #25488 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-20 08:18:03.257 #25488 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 08:18:03.257 #25488 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @268ms
+INFO  2026-08-20 08:18:03.258 #25488 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1074ms pid=25488 v=4.0.6
+INFO  2026-08-20 08:18:48.571 #25488 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 08:18:48.573 #25488 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 09:23:41.225 #12188 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 09:23:41.433 #12188 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-20 09:23:41.635 #12188 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-20 09:23:42.196 #12188 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 09:23:42.196 #12188 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @321ms
+INFO  2026-08-20 09:23:42.197 #12188 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1193ms pid=12188 v=4.0.6
+INFO  2026-08-20 09:39:54.477 #12188 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 09:39:54.482 #12188 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 09:39:57.026 #30108 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 09:39:57.241 #30108 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-20 09:39:57.439 #30108 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-20 09:39:57.802 #30108 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 09:39:57.802 #30108 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @156ms
+INFO  2026-08-20 09:39:57.803 #30108 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=970ms pid=30108 v=4.0.6
+INFO  2026-08-20 09:40:22.719 #30108 [-smarthttp-7][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-20 09:40:22.726 #30108 [-smarthttp-7][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-20 09:41:03.068 #30108 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 09:41:03.071 #30108 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 09:41:04.461 #23632 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 09:41:04.846 #23632 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-20 09:41:05.228 #23632 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-20 09:41:05.776 #23632 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 09:41:05.776 #23632 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @276ms
+INFO  2026-08-20 09:41:05.777 #23632 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1557ms pid=23632 v=4.0.6
+INFO  2026-08-20 09:41:31.499 #23632 [-smarthttp-12][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-20 09:41:31.506 #23632 [-smarthttp-12][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-20 09:44:38.214 #23632 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 09:44:38.216 #23632 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 09:44:39.757 #30924 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 09:44:40.018 #30924 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-20 09:44:40.211 #30924 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-20 09:44:40.536 #30924 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 09:44:40.537 #30924 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @153ms
+INFO  2026-08-20 09:44:40.537 #30924 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=946ms pid=30924 v=4.0.6
+INFO  2026-08-20 09:47:08.385 #30924 [-smarthttp-7][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-20 09:47:08.397 #30924 [-smarthttp-7][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-20 09:47:09.500 #30924 [-smarthttp-8][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-20 09:47:09.504 #30924 [-smarthttp-8][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-20 10:01:19.199 #30924 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 10:01:19.214 #30924 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 10:01:22.330 #33560 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 10:01:22.658 #33560 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-20 10:01:22.950 #33560 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-20 10:01:23.620 #33560 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 10:01:23.620 #33560 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @335ms
+INFO  2026-08-20 10:01:23.621 #33560 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1559ms pid=33560 v=4.0.6
+INFO  2026-08-20 10:06:00.310 #33560 [-smarthttp-16][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-20 10:06:00.317 #33560 [-smarthttp-16][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-20 10:06:03.442 #33560 [-smarthttp-16][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-20 10:06:03.451 #33560 [-smarthttp-16][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-20 10:06:46.361 #33560 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 10:06:46.362 #33560 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 10:06:48.566 #10184 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 10:06:48.776 #10184 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-20 10:06:48.964 #10184 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-20 10:06:49.317 #10184 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 10:06:49.318 #10184 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @160ms
+INFO  2026-08-20 10:06:49.319 #10184 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=925ms pid=10184 v=4.0.6
+INFO  2026-08-20 10:07:16.234 #10184 [-smarthttp-14][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-20 10:07:16.240 #10184 [-smarthttp-14][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-20 10:07:20.010 #10184 [-smarthttp-16][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-20 10:07:20.016 #10184 [-smarthttp-16][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-20 10:23:07.001 #10184 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 10:23:07.009 #10184 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 10:23:09.059 #27756 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 10:23:09.399 #27756 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-20 10:23:09.740 #27756 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-20 10:23:10.279 #27756 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 10:23:10.280 #27756 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @188ms
+INFO  2026-08-20 10:23:10.280 #27756 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1503ms pid=27756 v=4.0.6
+INFO  2026-08-20 10:24:35.591 #27756 [-smarthttp-15][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-20 10:24:35.610 #27756 [-smarthttp-15][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+INFO  2026-08-20 10:25:35.014 #27756 [-smarthttp-16][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-20 10:25:35.031 #27756 [-smarthttp-16][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-20 10:30:49.020 #27756 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 10:30:49.024 #27756 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 10:30:52.022 #12580 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 10:30:52.233 #12580 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Starting...
+INFO  2026-08-20 10:30:52.418 #12580 [-main][*][c.z.h.HikariDataSource]: 
+permission-plugin - Start completed.
+INFO  2026-08-20 10:30:52.786 #12580 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 10:30:52.786 #12580 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @162ms
+INFO  2026-08-20 10:30:52.787 #12580 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=955ms pid=12580 v=4.0.6
+INFO  2026-08-20 10:31:07.907 #12580 [-smarthttp-7][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown initiated...
+INFO  2026-08-20 10:31:07.935 #12580 [-smarthttp-7][*][c.z.h.HikariDataSource]: 
+permission-plugin - Shutdown completed.
+WARN  2026-08-20 10:31:31.481 #12580 [-smarthttp-15][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed, code=413
+org.noear.solon.core.exception.StatusException: Request Entity Too Large: POST /api/plugins/upload
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.status4xx(MultipartUtil.java:79)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:70)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.loadMultipartFormData(SmHttpContext.java:76)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramsMapInit(SmHttpContext.java:204)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramMap(SmHttpContext.java:185)
+	at org.noear.solon.core.handle.Context.param(Context.java:554)
+	at yh.hotplugin.security.HostSecurityFilter.isCoreMaintenance(HostSecurityFilter.java:61)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:30)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.smartboot.http.common.exception.HttpException: Payload Too Large
+	at org.smartboot.http.server.impl.HttpRequestImpl.getParts(HttpRequestImpl.java:93)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:59)
+	... 20 common frames omitted
+WARN  2026-08-20 10:31:31.491 #12580 [-smarthttp-16][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed, code=413
+org.noear.solon.core.exception.StatusException: Request Entity Too Large: POST /api/plugins/upload
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.status4xx(MultipartUtil.java:79)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:70)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.loadMultipartFormData(SmHttpContext.java:76)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramsMapInit(SmHttpContext.java:204)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramMap(SmHttpContext.java:185)
+	at org.noear.solon.core.handle.Context.param(Context.java:554)
+	at yh.hotplugin.security.HostSecurityFilter.isCoreMaintenance(HostSecurityFilter.java:61)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:30)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.smartboot.http.common.exception.HttpException: Payload Too Large
+	at org.smartboot.http.server.impl.HttpRequestImpl.getParts(HttpRequestImpl.java:93)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:59)
+	... 20 common frames omitted
+WARN  2026-08-20 10:31:54.231 #12580 [-smarthttp-15][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed, code=413
+org.noear.solon.core.exception.StatusException: Request Entity Too Large: POST /api/plugins/upload
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.status4xx(MultipartUtil.java:79)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:70)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.loadMultipartFormData(SmHttpContext.java:76)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramsMapInit(SmHttpContext.java:204)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramMap(SmHttpContext.java:185)
+	at org.noear.solon.core.handle.Context.param(Context.java:554)
+	at yh.hotplugin.security.HostSecurityFilter.isCoreMaintenance(HostSecurityFilter.java:61)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:30)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.smartboot.http.common.exception.HttpException: Payload Too Large
+	at org.smartboot.http.server.impl.HttpRequestImpl.getParts(HttpRequestImpl.java:93)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:59)
+	... 20 common frames omitted
+WARN  2026-08-20 10:31:54.233 #12580 [-smarthttp-15][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed, code=413
+org.noear.solon.core.exception.StatusException: Request Entity Too Large: POST /api/plugins/upload
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.status4xx(MultipartUtil.java:79)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:70)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.loadMultipartFormData(SmHttpContext.java:76)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramsMapInit(SmHttpContext.java:204)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramMap(SmHttpContext.java:185)
+	at org.noear.solon.core.handle.Context.param(Context.java:554)
+	at yh.hotplugin.security.HostSecurityFilter.isCoreMaintenance(HostSecurityFilter.java:61)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:30)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.smartboot.http.common.exception.HttpException: Payload Too Large
+	at org.smartboot.http.server.impl.HttpRequestImpl.getParts(HttpRequestImpl.java:93)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:59)
+	... 20 common frames omitted
+WARN  2026-08-20 10:31:54.236 #12580 [-smarthttp-15][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed, code=413
+org.noear.solon.core.exception.StatusException: Request Entity Too Large: POST /api/plugins/upload
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.status4xx(MultipartUtil.java:79)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:70)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.loadMultipartFormData(SmHttpContext.java:76)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramsMapInit(SmHttpContext.java:204)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramMap(SmHttpContext.java:185)
+	at org.noear.solon.core.handle.Context.param(Context.java:554)
+	at yh.hotplugin.security.HostSecurityFilter.isCoreMaintenance(HostSecurityFilter.java:61)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:30)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.smartboot.http.common.exception.HttpException: Payload Too Large
+	at org.smartboot.http.server.impl.HttpRequestImpl.getParts(HttpRequestImpl.java:93)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:59)
+	... 20 common frames omitted
+INFO  2026-08-20 10:32:30.113 #12580 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 10:32:30.116 #12580 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 10:32:31.902 #34728 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 10:32:32.436 #34728 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 10:32:32.437 #34728 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @235ms
+INFO  2026-08-20 10:32:32.438 #34728 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=749ms pid=34728 v=4.0.6
+INFO  2026-08-20 10:33:10.390 #34728 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 10:33:10.395 #34728 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 10:33:11.892 #17332 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 10:33:12.395 #17332 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 10:33:12.395 #17332 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @239ms
+INFO  2026-08-20 10:33:12.396 #17332 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=735ms pid=17332 v=4.0.6
+WARN  2026-08-20 10:33:27.354 #17332 [-smarthttp-10][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed, code=413
+org.noear.solon.core.exception.StatusException: Request Entity Too Large: POST /api/plugins/upload
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.status4xx(MultipartUtil.java:79)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:70)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.loadMultipartFormData(SmHttpContext.java:76)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramsMapInit(SmHttpContext.java:204)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramMap(SmHttpContext.java:185)
+	at org.noear.solon.core.handle.Context.param(Context.java:554)
+	at yh.hotplugin.security.HostSecurityFilter.isCoreMaintenance(HostSecurityFilter.java:61)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:30)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.smartboot.http.common.exception.HttpException: Payload Too Large
+	at org.smartboot.http.server.impl.HttpRequestImpl.getParts(HttpRequestImpl.java:93)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:59)
+	... 20 common frames omitted
+WARN  2026-08-20 10:33:27.359 #17332 [-smarthttp-11][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed, code=413
+org.noear.solon.core.exception.StatusException: Request Entity Too Large: POST /api/plugins/upload
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.status4xx(MultipartUtil.java:79)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:70)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.loadMultipartFormData(SmHttpContext.java:76)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramsMapInit(SmHttpContext.java:204)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramMap(SmHttpContext.java:185)
+	at org.noear.solon.core.handle.Context.param(Context.java:554)
+	at yh.hotplugin.security.HostSecurityFilter.isCoreMaintenance(HostSecurityFilter.java:61)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:30)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.smartboot.http.common.exception.HttpException: Payload Too Large
+	at org.smartboot.http.server.impl.HttpRequestImpl.getParts(HttpRequestImpl.java:93)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:59)
+	... 20 common frames omitted
+WARN  2026-08-20 10:33:30.090 #17332 [-smarthttp-13][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed, code=413
+org.noear.solon.core.exception.StatusException: Request Entity Too Large: POST /api/plugins/upload
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.status4xx(MultipartUtil.java:79)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:70)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.loadMultipartFormData(SmHttpContext.java:76)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramsMapInit(SmHttpContext.java:204)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramMap(SmHttpContext.java:185)
+	at org.noear.solon.core.handle.Context.param(Context.java:554)
+	at yh.hotplugin.security.HostSecurityFilter.isCoreMaintenance(HostSecurityFilter.java:61)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:30)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.smartboot.http.common.exception.HttpException: Payload Too Large
+	at org.smartboot.http.server.impl.HttpRequestImpl.getParts(HttpRequestImpl.java:93)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:59)
+	... 20 common frames omitted
+WARN  2026-08-20 10:33:30.094 #17332 [-smarthttp-14][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed, code=413
+org.noear.solon.core.exception.StatusException: Request Entity Too Large: POST /api/plugins/upload
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.status4xx(MultipartUtil.java:79)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:70)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.loadMultipartFormData(SmHttpContext.java:76)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramsMapInit(SmHttpContext.java:204)
+	at org.noear.solon.server.smarthttp.http.SmHttpContext.paramMap(SmHttpContext.java:185)
+	at org.noear.solon.core.handle.Context.param(Context.java:554)
+	at yh.hotplugin.security.HostSecurityFilter.isCoreMaintenance(HostSecurityFilter.java:61)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:30)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.smartboot.http.common.exception.HttpException: Payload Too Large
+	at org.smartboot.http.server.impl.HttpRequestImpl.getParts(HttpRequestImpl.java:93)
+	at org.noear.solon.server.smarthttp.http.MultipartUtil.buildParamsAndFiles(MultipartUtil.java:59)
+	... 20 common frames omitted
+INFO  2026-08-20 10:45:17.174 #17332 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 10:45:17.179 #17332 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 10:45:20.013 #31916 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 10:45:21.168 #31916 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 10:45:21.815 #31916 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 10:45:21.815 #31916 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @205ms
+INFO  2026-08-20 10:45:21.816 #31916 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2045ms pid=31916 v=4.0.6
+WARN  2026-08-20 10:45:31.856 #31916 [-smarthttp-3][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+java.lang.NullPointerException: Cannot invoke "cn.dev33.satoken.context.model.SaTokenContextModelBox.getRequest()" because "box" is null
+	at cn.dev33.satoken.solon.integration.SaTokenCorsFilterForSolon.doFilter(SaTokenCorsFilterForSolon.java:41)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at cn.dev33.satoken.solon.integration.SaTokenContextFilterForSolon.doFilter(SaTokenContextFilterForSolon.java:35)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:24)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 10:45:37.620 #31916 [-smarthttp-4][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+java.lang.NullPointerException: Cannot invoke "cn.dev33.satoken.context.model.SaTokenContextModelBox.getRequest()" because "box" is null
+	at cn.dev33.satoken.solon.integration.SaTokenCorsFilterForSolon.doFilter(SaTokenCorsFilterForSolon.java:41)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at cn.dev33.satoken.solon.integration.SaTokenContextFilterForSolon.doFilter(SaTokenContextFilterForSolon.java:35)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:24)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+INFO  2026-08-20 10:55:39.321 #31916 [-Thread-2][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 10:55:39.328 #31916 [-Thread-2][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 10:55:43.009 #24832 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 10:55:43.926 #24832 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 10:55:44.574 #24832 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 10:55:44.574 #24832 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @211ms
+INFO  2026-08-20 10:55:44.575 #24832 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1782ms pid=24832 v=4.0.6
+WARN  2026-08-20 10:56:03.682 #24832 [-smarthttp-7][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+cn.dev33.satoken.exception.NotImplException: 未实现具体的 json 转换器
+	at cn.dev33.satoken.json.SaJsonTemplateDefaultImpl.jsonToObject(SaJsonTemplateDefaultImpl.java:47)
+	at cn.dev33.satoken.serializer.impl.SaSerializerTemplateForJson.stringToObject(SaSerializerTemplateForJson.java:42)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoByObjectFollowString.getObject(SaTokenDaoByObjectFollowString.java:50)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoBySessionFollowObject.getSession(SaTokenDaoBySessionFollowObject.java:38)
+	at cn.dev33.satoken.stp.StpLogic.getSessionBySessionId(StpLogic.java:1374)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1427)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1444)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueListByLoginId(StpLogic.java:2350)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueByLoginId(StpLogic.java:2327)
+	at cn.dev33.satoken.stp.StpLogic.distUsableToken(StpLogic.java:576)
+	at cn.dev33.satoken.stp.StpLogic.createLoginSession(StpLogic.java:491)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:462)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:451)
+	at cn.dev33.satoken.stp.StpUtil.login(StpUtil.java:206)
+	at yh.hotplugin.system.application.SystemPermissionProvider.login(SystemPermissionProvider.java:18)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:153)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$2(SecureSystemSolonPlugin.java:102)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:24)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 10:56:05.817 #24832 [-smarthttp-8][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+cn.dev33.satoken.exception.NotImplException: 未实现具体的 json 转换器
+	at cn.dev33.satoken.json.SaJsonTemplateDefaultImpl.jsonToObject(SaJsonTemplateDefaultImpl.java:47)
+	at cn.dev33.satoken.serializer.impl.SaSerializerTemplateForJson.stringToObject(SaSerializerTemplateForJson.java:42)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoByObjectFollowString.getObject(SaTokenDaoByObjectFollowString.java:50)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoBySessionFollowObject.getSession(SaTokenDaoBySessionFollowObject.java:38)
+	at cn.dev33.satoken.stp.StpLogic.getSessionBySessionId(StpLogic.java:1374)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1427)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1444)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueListByLoginId(StpLogic.java:2350)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueByLoginId(StpLogic.java:2327)
+	at cn.dev33.satoken.stp.StpLogic.distUsableToken(StpLogic.java:576)
+	at cn.dev33.satoken.stp.StpLogic.createLoginSession(StpLogic.java:491)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:462)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:451)
+	at cn.dev33.satoken.stp.StpUtil.login(StpUtil.java:206)
+	at yh.hotplugin.system.application.SystemPermissionProvider.login(SystemPermissionProvider.java:18)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:153)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$2(SecureSystemSolonPlugin.java:102)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:24)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 10:56:14.927 #24832 [-smarthttp-9][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+cn.dev33.satoken.exception.NotImplException: 未实现具体的 json 转换器
+	at cn.dev33.satoken.json.SaJsonTemplateDefaultImpl.jsonToObject(SaJsonTemplateDefaultImpl.java:47)
+	at cn.dev33.satoken.serializer.impl.SaSerializerTemplateForJson.stringToObject(SaSerializerTemplateForJson.java:42)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoByObjectFollowString.getObject(SaTokenDaoByObjectFollowString.java:50)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoBySessionFollowObject.getSession(SaTokenDaoBySessionFollowObject.java:38)
+	at cn.dev33.satoken.stp.StpLogic.getSessionBySessionId(StpLogic.java:1374)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1427)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1444)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueListByLoginId(StpLogic.java:2350)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueByLoginId(StpLogic.java:2327)
+	at cn.dev33.satoken.stp.StpLogic.distUsableToken(StpLogic.java:576)
+	at cn.dev33.satoken.stp.StpLogic.createLoginSession(StpLogic.java:491)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:462)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:451)
+	at cn.dev33.satoken.stp.StpUtil.login(StpUtil.java:206)
+	at yh.hotplugin.system.application.SystemPermissionProvider.login(SystemPermissionProvider.java:18)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:153)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$2(SecureSystemSolonPlugin.java:102)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:24)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 10:56:15.879 #24832 [-smarthttp-10][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+cn.dev33.satoken.exception.NotImplException: 未实现具体的 json 转换器
+	at cn.dev33.satoken.json.SaJsonTemplateDefaultImpl.jsonToObject(SaJsonTemplateDefaultImpl.java:47)
+	at cn.dev33.satoken.serializer.impl.SaSerializerTemplateForJson.stringToObject(SaSerializerTemplateForJson.java:42)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoByObjectFollowString.getObject(SaTokenDaoByObjectFollowString.java:50)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoBySessionFollowObject.getSession(SaTokenDaoBySessionFollowObject.java:38)
+	at cn.dev33.satoken.stp.StpLogic.getSessionBySessionId(StpLogic.java:1374)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1427)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1444)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueListByLoginId(StpLogic.java:2350)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueByLoginId(StpLogic.java:2327)
+	at cn.dev33.satoken.stp.StpLogic.distUsableToken(StpLogic.java:576)
+	at cn.dev33.satoken.stp.StpLogic.createLoginSession(StpLogic.java:491)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:462)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:451)
+	at cn.dev33.satoken.stp.StpUtil.login(StpUtil.java:206)
+	at yh.hotplugin.system.application.SystemPermissionProvider.login(SystemPermissionProvider.java:18)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:153)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$2(SecureSystemSolonPlugin.java:102)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:24)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 10:56:16.059 #24832 [-smarthttp-11][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+cn.dev33.satoken.exception.NotImplException: 未实现具体的 json 转换器
+	at cn.dev33.satoken.json.SaJsonTemplateDefaultImpl.jsonToObject(SaJsonTemplateDefaultImpl.java:47)
+	at cn.dev33.satoken.serializer.impl.SaSerializerTemplateForJson.stringToObject(SaSerializerTemplateForJson.java:42)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoByObjectFollowString.getObject(SaTokenDaoByObjectFollowString.java:50)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoBySessionFollowObject.getSession(SaTokenDaoBySessionFollowObject.java:38)
+	at cn.dev33.satoken.stp.StpLogic.getSessionBySessionId(StpLogic.java:1374)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1427)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1444)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueListByLoginId(StpLogic.java:2350)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueByLoginId(StpLogic.java:2327)
+	at cn.dev33.satoken.stp.StpLogic.distUsableToken(StpLogic.java:576)
+	at cn.dev33.satoken.stp.StpLogic.createLoginSession(StpLogic.java:491)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:462)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:451)
+	at cn.dev33.satoken.stp.StpUtil.login(StpUtil.java:206)
+	at yh.hotplugin.system.application.SystemPermissionProvider.login(SystemPermissionProvider.java:18)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:153)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$2(SecureSystemSolonPlugin.java:102)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:24)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 10:57:41.598 #24832 [-smarthttp-12][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+cn.dev33.satoken.exception.NotImplException: 未实现具体的 json 转换器
+	at cn.dev33.satoken.json.SaJsonTemplateDefaultImpl.jsonToObject(SaJsonTemplateDefaultImpl.java:47)
+	at cn.dev33.satoken.serializer.impl.SaSerializerTemplateForJson.stringToObject(SaSerializerTemplateForJson.java:42)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoByObjectFollowString.getObject(SaTokenDaoByObjectFollowString.java:50)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoBySessionFollowObject.getSession(SaTokenDaoBySessionFollowObject.java:38)
+	at cn.dev33.satoken.stp.StpLogic.getSessionBySessionId(StpLogic.java:1374)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1427)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1444)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueListByLoginId(StpLogic.java:2350)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueByLoginId(StpLogic.java:2327)
+	at cn.dev33.satoken.stp.StpLogic.distUsableToken(StpLogic.java:576)
+	at cn.dev33.satoken.stp.StpLogic.createLoginSession(StpLogic.java:491)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:462)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:451)
+	at cn.dev33.satoken.stp.StpUtil.login(StpUtil.java:206)
+	at yh.hotplugin.system.application.SystemPermissionProvider.login(SystemPermissionProvider.java:18)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:153)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$2(SecureSystemSolonPlugin.java:102)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:24)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 10:57:42.314 #24832 [-smarthttp-13][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+cn.dev33.satoken.exception.NotImplException: 未实现具体的 json 转换器
+	at cn.dev33.satoken.json.SaJsonTemplateDefaultImpl.jsonToObject(SaJsonTemplateDefaultImpl.java:47)
+	at cn.dev33.satoken.serializer.impl.SaSerializerTemplateForJson.stringToObject(SaSerializerTemplateForJson.java:42)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoByObjectFollowString.getObject(SaTokenDaoByObjectFollowString.java:50)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoBySessionFollowObject.getSession(SaTokenDaoBySessionFollowObject.java:38)
+	at cn.dev33.satoken.stp.StpLogic.getSessionBySessionId(StpLogic.java:1374)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1427)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1444)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueListByLoginId(StpLogic.java:2350)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueByLoginId(StpLogic.java:2327)
+	at cn.dev33.satoken.stp.StpLogic.distUsableToken(StpLogic.java:576)
+	at cn.dev33.satoken.stp.StpLogic.createLoginSession(StpLogic.java:491)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:462)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:451)
+	at cn.dev33.satoken.stp.StpUtil.login(StpUtil.java:206)
+	at yh.hotplugin.system.application.SystemPermissionProvider.login(SystemPermissionProvider.java:18)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:153)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$2(SecureSystemSolonPlugin.java:102)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:24)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 10:57:42.492 #24832 [-smarthttp-14][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+cn.dev33.satoken.exception.NotImplException: 未实现具体的 json 转换器
+	at cn.dev33.satoken.json.SaJsonTemplateDefaultImpl.jsonToObject(SaJsonTemplateDefaultImpl.java:47)
+	at cn.dev33.satoken.serializer.impl.SaSerializerTemplateForJson.stringToObject(SaSerializerTemplateForJson.java:42)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoByObjectFollowString.getObject(SaTokenDaoByObjectFollowString.java:50)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoBySessionFollowObject.getSession(SaTokenDaoBySessionFollowObject.java:38)
+	at cn.dev33.satoken.stp.StpLogic.getSessionBySessionId(StpLogic.java:1374)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1427)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1444)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueListByLoginId(StpLogic.java:2350)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueByLoginId(StpLogic.java:2327)
+	at cn.dev33.satoken.stp.StpLogic.distUsableToken(StpLogic.java:576)
+	at cn.dev33.satoken.stp.StpLogic.createLoginSession(StpLogic.java:491)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:462)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:451)
+	at cn.dev33.satoken.stp.StpUtil.login(StpUtil.java:206)
+	at yh.hotplugin.system.application.SystemPermissionProvider.login(SystemPermissionProvider.java:18)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:153)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$2(SecureSystemSolonPlugin.java:102)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:24)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 10:57:42.647 #24832 [-smarthttp-15][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+cn.dev33.satoken.exception.NotImplException: 未实现具体的 json 转换器
+	at cn.dev33.satoken.json.SaJsonTemplateDefaultImpl.jsonToObject(SaJsonTemplateDefaultImpl.java:47)
+	at cn.dev33.satoken.serializer.impl.SaSerializerTemplateForJson.stringToObject(SaSerializerTemplateForJson.java:42)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoByObjectFollowString.getObject(SaTokenDaoByObjectFollowString.java:50)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoBySessionFollowObject.getSession(SaTokenDaoBySessionFollowObject.java:38)
+	at cn.dev33.satoken.stp.StpLogic.getSessionBySessionId(StpLogic.java:1374)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1427)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1444)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueListByLoginId(StpLogic.java:2350)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueByLoginId(StpLogic.java:2327)
+	at cn.dev33.satoken.stp.StpLogic.distUsableToken(StpLogic.java:576)
+	at cn.dev33.satoken.stp.StpLogic.createLoginSession(StpLogic.java:491)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:462)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:451)
+	at cn.dev33.satoken.stp.StpUtil.login(StpUtil.java:206)
+	at yh.hotplugin.system.application.SystemPermissionProvider.login(SystemPermissionProvider.java:18)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:153)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$2(SecureSystemSolonPlugin.java:102)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:24)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 10:57:42.819 #24832 [-smarthttp-16][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+cn.dev33.satoken.exception.NotImplException: 未实现具体的 json 转换器
+	at cn.dev33.satoken.json.SaJsonTemplateDefaultImpl.jsonToObject(SaJsonTemplateDefaultImpl.java:47)
+	at cn.dev33.satoken.serializer.impl.SaSerializerTemplateForJson.stringToObject(SaSerializerTemplateForJson.java:42)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoByObjectFollowString.getObject(SaTokenDaoByObjectFollowString.java:50)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoBySessionFollowObject.getSession(SaTokenDaoBySessionFollowObject.java:38)
+	at cn.dev33.satoken.stp.StpLogic.getSessionBySessionId(StpLogic.java:1374)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1427)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1444)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueListByLoginId(StpLogic.java:2350)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueByLoginId(StpLogic.java:2327)
+	at cn.dev33.satoken.stp.StpLogic.distUsableToken(StpLogic.java:576)
+	at cn.dev33.satoken.stp.StpLogic.createLoginSession(StpLogic.java:491)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:462)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:451)
+	at cn.dev33.satoken.stp.StpUtil.login(StpUtil.java:206)
+	at yh.hotplugin.system.application.SystemPermissionProvider.login(SystemPermissionProvider.java:18)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:153)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$2(SecureSystemSolonPlugin.java:102)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:24)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 10:57:42.991 #24832 [-smarthttp-16][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+cn.dev33.satoken.exception.NotImplException: 未实现具体的 json 转换器
+	at cn.dev33.satoken.json.SaJsonTemplateDefaultImpl.jsonToObject(SaJsonTemplateDefaultImpl.java:47)
+	at cn.dev33.satoken.serializer.impl.SaSerializerTemplateForJson.stringToObject(SaSerializerTemplateForJson.java:42)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoByObjectFollowString.getObject(SaTokenDaoByObjectFollowString.java:50)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoBySessionFollowObject.getSession(SaTokenDaoBySessionFollowObject.java:38)
+	at cn.dev33.satoken.stp.StpLogic.getSessionBySessionId(StpLogic.java:1374)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1427)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1444)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueListByLoginId(StpLogic.java:2350)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueByLoginId(StpLogic.java:2327)
+	at cn.dev33.satoken.stp.StpLogic.distUsableToken(StpLogic.java:576)
+	at cn.dev33.satoken.stp.StpLogic.createLoginSession(StpLogic.java:491)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:462)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:451)
+	at cn.dev33.satoken.stp.StpUtil.login(StpUtil.java:206)
+	at yh.hotplugin.system.application.SystemPermissionProvider.login(SystemPermissionProvider.java:18)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:153)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$2(SecureSystemSolonPlugin.java:102)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:24)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 10:57:43.153 #24832 [-smarthttp-16][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+cn.dev33.satoken.exception.NotImplException: 未实现具体的 json 转换器
+	at cn.dev33.satoken.json.SaJsonTemplateDefaultImpl.jsonToObject(SaJsonTemplateDefaultImpl.java:47)
+	at cn.dev33.satoken.serializer.impl.SaSerializerTemplateForJson.stringToObject(SaSerializerTemplateForJson.java:42)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoByObjectFollowString.getObject(SaTokenDaoByObjectFollowString.java:50)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoBySessionFollowObject.getSession(SaTokenDaoBySessionFollowObject.java:38)
+	at cn.dev33.satoken.stp.StpLogic.getSessionBySessionId(StpLogic.java:1374)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1427)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1444)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueListByLoginId(StpLogic.java:2350)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueByLoginId(StpLogic.java:2327)
+	at cn.dev33.satoken.stp.StpLogic.distUsableToken(StpLogic.java:576)
+	at cn.dev33.satoken.stp.StpLogic.createLoginSession(StpLogic.java:491)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:462)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:451)
+	at cn.dev33.satoken.stp.StpUtil.login(StpUtil.java:206)
+	at yh.hotplugin.system.application.SystemPermissionProvider.login(SystemPermissionProvider.java:18)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:153)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$2(SecureSystemSolonPlugin.java:102)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:24)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 10:57:43.320 #24832 [-smarthttp-16][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+cn.dev33.satoken.exception.NotImplException: 未实现具体的 json 转换器
+	at cn.dev33.satoken.json.SaJsonTemplateDefaultImpl.jsonToObject(SaJsonTemplateDefaultImpl.java:47)
+	at cn.dev33.satoken.serializer.impl.SaSerializerTemplateForJson.stringToObject(SaSerializerTemplateForJson.java:42)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoByObjectFollowString.getObject(SaTokenDaoByObjectFollowString.java:50)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoBySessionFollowObject.getSession(SaTokenDaoBySessionFollowObject.java:38)
+	at cn.dev33.satoken.stp.StpLogic.getSessionBySessionId(StpLogic.java:1374)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1427)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1444)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueListByLoginId(StpLogic.java:2350)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueByLoginId(StpLogic.java:2327)
+	at cn.dev33.satoken.stp.StpLogic.distUsableToken(StpLogic.java:576)
+	at cn.dev33.satoken.stp.StpLogic.createLoginSession(StpLogic.java:491)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:462)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:451)
+	at cn.dev33.satoken.stp.StpUtil.login(StpUtil.java:206)
+	at yh.hotplugin.system.application.SystemPermissionProvider.login(SystemPermissionProvider.java:18)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:153)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$2(SecureSystemSolonPlugin.java:102)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:24)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 10:57:43.492 #24832 [-smarthttp-16][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+cn.dev33.satoken.exception.NotImplException: 未实现具体的 json 转换器
+	at cn.dev33.satoken.json.SaJsonTemplateDefaultImpl.jsonToObject(SaJsonTemplateDefaultImpl.java:47)
+	at cn.dev33.satoken.serializer.impl.SaSerializerTemplateForJson.stringToObject(SaSerializerTemplateForJson.java:42)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoByObjectFollowString.getObject(SaTokenDaoByObjectFollowString.java:50)
+	at cn.dev33.satoken.dao.auto.SaTokenDaoBySessionFollowObject.getSession(SaTokenDaoBySessionFollowObject.java:38)
+	at cn.dev33.satoken.stp.StpLogic.getSessionBySessionId(StpLogic.java:1374)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1427)
+	at cn.dev33.satoken.stp.StpLogic.getSessionByLoginId(StpLogic.java:1444)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueListByLoginId(StpLogic.java:2350)
+	at cn.dev33.satoken.stp.StpLogic.getTokenValueByLoginId(StpLogic.java:2327)
+	at cn.dev33.satoken.stp.StpLogic.distUsableToken(StpLogic.java:576)
+	at cn.dev33.satoken.stp.StpLogic.createLoginSession(StpLogic.java:491)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:462)
+	at cn.dev33.satoken.stp.StpLogic.login(StpLogic.java:451)
+	at cn.dev33.satoken.stp.StpUtil.login(StpUtil.java:206)
+	at yh.hotplugin.system.application.SystemPermissionProvider.login(SystemPermissionProvider.java:18)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:153)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$2(SecureSystemSolonPlugin.java:102)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:24)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+INFO  2026-08-20 11:06:50.525 #24832 [-Thread-2][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 11:06:50.543 #24832 [-Thread-2][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 11:06:52.036 #2632 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 11:06:52.875 #2632 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 11:06:53.366 #2632 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 11:06:53.367 #2632 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @157ms
+INFO  2026-08-20 11:06:53.367 #2632 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1522ms pid=2632 v=4.0.6
+INFO  2026-08-20 11:07:15.316 #2632 [-smarthttp-7][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-20 11:07:15.332 #2632 [-smarthttp-7][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-20 11:07:22.010 #2632 [-smarthttp-11][*][c.a.d.p.DruidDataSource]: 
+{dataSource-2} inited
+INFO  2026-08-20 11:07:30.393 #2632 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-2} closing ...
+INFO  2026-08-20 11:07:30.393 #2632 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-2} closed
+INFO  2026-08-20 11:07:34.959 #2632 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-3} inited
+INFO  2026-08-20 11:18:26.497 #2632 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-3} closing ...
+INFO  2026-08-20 11:18:26.505 #2632 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-3} closed
+INFO  2026-08-20 11:18:28.706 #2632 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-4} inited
+INFO  2026-08-20 11:20:47.584 #2632 [-Thread-2][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 11:20:47.591 #2632 [-Thread-2][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 11:20:48.773 #13244 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 11:20:49.606 #13244 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 11:20:50.091 #13244 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 11:20:50.091 #13244 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @164ms
+INFO  2026-08-20 11:20:50.092 #13244 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1498ms pid=13244 v=4.0.6
+INFO  2026-08-20 11:21:44.622 #13244 [-smarthttp-9][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-20 11:21:44.631 #13244 [-smarthttp-9][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-20 11:22:05.389 #13244 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 12:13:44.845 #13244 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+ERROR 2026-08-20 12:13:44.881 #13244 [-Druid-ConnectionPool-Create-556947272][*][c.a.d.p.DruidDataSource]: 
+create connection thread interrupted, url: jdbc:mysql://localhost:3307/yhadmin?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1638)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2769)
+WARN  2026-08-20 12:13:44.881 #13244 [-smarthttp-15][*][o.n.s.c.PluginEntity]: 
+The plugin stop failed: yh.hotplugin.system.integration.SecureSystemSolonPlugin
+java.lang.NoClassDefFoundError: com/alibaba/druid/pool/PreparedStatementPool
+	at com.alibaba.druid.pool.DruidConnectionHolder.getStatementPool(DruidConnectionHolder.java:319)
+	at com.alibaba.druid.pool.DruidDataSource.close(DruidDataSource.java:2121)
+	at yh.hotplugin.system.infrastructure.mybatis.MybatisExecutor.close(MybatisExecutor.java:137)
+	at yh.hotplugin.system.infrastructure.JdbcAuthorizationRepository.close(JdbcAuthorizationRepository.java:187)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.stop(SecureSystemSolonPlugin.java:346)
+	at org.noear.solon.core.PluginEntity.stop(PluginEntity.java:149)
+	at org.noear.solon.hotplug.PluginPackage.stop(PluginPackage.java:173)
+	at org.noear.solon.hotplug.PluginManager.stop(PluginManager.java:154)
+	at yh.hotplugin.infrastructure.SolonPluginRuntime.stop(SolonPluginRuntime.java:44)
+	at yh.hotplugin.application.PluginApplicationService.stop(PluginApplicationService.java:132)
+	at yh.hotplugin.interfaces.PluginHttpApi.lambda$registerRoutes$10(PluginHttpApi.java:53)
+	at yh.hotplugin.interfaces.PluginHttpApi.execute(PluginHttpApi.java:105)
+	at yh.hotplugin.interfaces.PluginHttpApi.lambda$registerRoutes$11(PluginHttpApi.java:53)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:50)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ClassNotFoundException: com.alibaba.druid.pool.PreparedStatementPool
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:429)
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:587)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.noear.solon.core.AppClassLoader.loadClass(AppClassLoader.java:209)
+	... 35 common frames omitted
+Caused by: java.util.zip.ZipException: ZipFile invalid LOC header (bad signature)
+	at java.base/java.util.zip.ZipFile$ZipFileInputStream.initDataOffset(ZipFile.java:920)
+	at java.base/java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:931)
+	at java.base/java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:448)
+	at java.base/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.base/jdk.internal.loader.Resource.getBytes(Resource.java:126)
+	at java.base/jdk.internal.loader.URLClassPath$JarLoader$2.getBytes(URLClassPath.java:893)
+	at java.base/java.net.URLClassLoader.defineClass(URLClassLoader.java:519)
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:427)
+	... 41 common frames omitted
+INFO  2026-08-20 12:13:46.061 #13244 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-2} inited
+INFO  2026-08-20 12:21:56.904 #13244 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-2} closing ...
+ERROR 2026-08-20 12:21:56.904 #13244 [-Druid-ConnectionPool-Create-1029015313][*][c.a.d.p.DruidDataSource]: 
+create connection thread interrupted, url: jdbc:mysql://localhost:3307/yhadmin?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1638)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2769)
+WARN  2026-08-20 12:21:56.904 #13244 [-smarthttp-15][*][o.n.s.c.PluginEntity]: 
+The plugin stop failed: yh.hotplugin.system.integration.SecureSystemSolonPlugin
+java.lang.NoClassDefFoundError: com/alibaba/druid/pool/PreparedStatementPool
+	at com.alibaba.druid.pool.DruidConnectionHolder.getStatementPool(DruidConnectionHolder.java:319)
+	at com.alibaba.druid.pool.DruidDataSource.close(DruidDataSource.java:2121)
+	at yh.hotplugin.system.infrastructure.mybatis.MybatisExecutor.close(MybatisExecutor.java:137)
+	at yh.hotplugin.system.infrastructure.JdbcAuthorizationRepository.close(JdbcAuthorizationRepository.java:187)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.stop(SecureSystemSolonPlugin.java:346)
+	at org.noear.solon.core.PluginEntity.stop(PluginEntity.java:149)
+	at org.noear.solon.hotplug.PluginPackage.stop(PluginPackage.java:173)
+	at org.noear.solon.hotplug.PluginManager.stop(PluginManager.java:154)
+	at yh.hotplugin.infrastructure.SolonPluginRuntime.stop(SolonPluginRuntime.java:44)
+	at yh.hotplugin.application.PluginApplicationService.stop(PluginApplicationService.java:132)
+	at yh.hotplugin.interfaces.PluginHttpApi.lambda$registerRoutes$10(PluginHttpApi.java:53)
+	at yh.hotplugin.interfaces.PluginHttpApi.execute(PluginHttpApi.java:105)
+	at yh.hotplugin.interfaces.PluginHttpApi.lambda$registerRoutes$11(PluginHttpApi.java:53)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:50)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ClassNotFoundException: com.alibaba.druid.pool.PreparedStatementPool
+	... 35 common frames omitted
+INFO  2026-08-20 12:21:58.027 #13244 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-3} inited
+INFO  2026-08-20 12:23:14.047 #13244 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-3} closing ...
+ERROR 2026-08-20 12:23:14.050 #13244 [-Druid-ConnectionPool-Create-482473127][*][c.a.d.p.DruidDataSource]: 
+create connection thread interrupted, url: jdbc:mysql://localhost:3307/yhadmin?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1638)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2769)
+WARN  2026-08-20 12:23:14.047 #13244 [-smarthttp-15][*][o.n.s.c.PluginEntity]: 
+The plugin stop failed: yh.hotplugin.system.integration.SecureSystemSolonPlugin
+java.lang.NoClassDefFoundError: com/alibaba/druid/pool/PreparedStatementPool
+	at com.alibaba.druid.pool.DruidConnectionHolder.getStatementPool(DruidConnectionHolder.java:319)
+	at com.alibaba.druid.pool.DruidDataSource.close(DruidDataSource.java:2121)
+	at yh.hotplugin.system.infrastructure.mybatis.MybatisExecutor.close(MybatisExecutor.java:137)
+	at yh.hotplugin.system.infrastructure.JdbcAuthorizationRepository.close(JdbcAuthorizationRepository.java:187)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.stop(SecureSystemSolonPlugin.java:346)
+	at org.noear.solon.core.PluginEntity.stop(PluginEntity.java:149)
+	at org.noear.solon.hotplug.PluginPackage.stop(PluginPackage.java:173)
+	at org.noear.solon.hotplug.PluginManager.stop(PluginManager.java:154)
+	at yh.hotplugin.infrastructure.SolonPluginRuntime.stop(SolonPluginRuntime.java:44)
+	at yh.hotplugin.application.PluginApplicationService.stop(PluginApplicationService.java:132)
+	at yh.hotplugin.interfaces.PluginHttpApi.lambda$registerRoutes$10(PluginHttpApi.java:53)
+	at yh.hotplugin.interfaces.PluginHttpApi.execute(PluginHttpApi.java:105)
+	at yh.hotplugin.interfaces.PluginHttpApi.lambda$registerRoutes$11(PluginHttpApi.java:53)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:50)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ClassNotFoundException: com.alibaba.druid.pool.PreparedStatementPool
+	... 35 common frames omitted
+INFO  2026-08-20 12:23:33.465 #13244 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 12:28:13.816 #13244 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+ERROR 2026-08-20 12:28:13.816 #13244 [-Druid-ConnectionPool-Create-636986566][*][c.a.d.p.DruidDataSource]: 
+create connection thread interrupted, url: jdbc:mysql://localhost:3307/yhadmin?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1638)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2769)
+WARN  2026-08-20 12:28:13.816 #13244 [-smarthttp-16][*][o.n.s.c.PluginEntity]: 
+The plugin stop failed: yh.hotplugin.system.integration.SecureSystemSolonPlugin
+java.lang.NoClassDefFoundError: com/alibaba/druid/pool/PreparedStatementPool
+	at com.alibaba.druid.pool.DruidConnectionHolder.getStatementPool(DruidConnectionHolder.java:319)
+	at com.alibaba.druid.pool.DruidDataSource.close(DruidDataSource.java:2121)
+	at yh.hotplugin.system.infrastructure.mybatis.MybatisExecutor.close(MybatisExecutor.java:137)
+	at yh.hotplugin.system.infrastructure.JdbcAuthorizationRepository.close(JdbcAuthorizationRepository.java:187)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.stop(SecureSystemSolonPlugin.java:346)
+	at org.noear.solon.core.PluginEntity.stop(PluginEntity.java:149)
+	at org.noear.solon.hotplug.PluginPackage.stop(PluginPackage.java:173)
+	at org.noear.solon.hotplug.PluginManager.stop(PluginManager.java:154)
+	at yh.hotplugin.infrastructure.SolonPluginRuntime.stop(SolonPluginRuntime.java:44)
+	at yh.hotplugin.application.PluginApplicationService.stop(PluginApplicationService.java:132)
+	at yh.hotplugin.interfaces.PluginHttpApi.lambda$registerRoutes$10(PluginHttpApi.java:53)
+	at yh.hotplugin.interfaces.PluginHttpApi.execute(PluginHttpApi.java:105)
+	at yh.hotplugin.interfaces.PluginHttpApi.lambda$registerRoutes$11(PluginHttpApi.java:53)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:50)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ClassNotFoundException: com.alibaba.druid.pool.PreparedStatementPool
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:429)
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:587)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.noear.solon.core.AppClassLoader.loadClass(AppClassLoader.java:209)
+	... 35 common frames omitted
+Caused by: java.util.zip.ZipException: ZipFile invalid LOC header (bad signature)
+	at java.base/java.util.zip.ZipFile$ZipFileInputStream.initDataOffset(ZipFile.java:920)
+	at java.base/java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:931)
+	at java.base/java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:448)
+	at java.base/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.base/jdk.internal.loader.Resource.getBytes(Resource.java:126)
+	at java.base/jdk.internal.loader.URLClassPath$JarLoader$2.getBytes(URLClassPath.java:893)
+	at java.base/java.net.URLClassLoader.defineClass(URLClassLoader.java:519)
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:427)
+	... 41 common frames omitted
+INFO  2026-08-20 12:28:22.614 #13244 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 14:47:06.181 #13244 [-Thread-2][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 14:47:06.271 #13244 [-Thread-2][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 15:02:51.405 #27952 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 15:02:52.271 #27952 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 15:02:52.272 #27952 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @334ms
+INFO  2026-08-20 15:02:52.272 #27952 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1177ms pid=27952 v=4.0.6
+INFO  2026-08-20 15:31:57.675 #27952 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 15:31:57.733 #27952 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 15:32:01.112 #36716 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 15:32:02.117 #36716 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 15:32:02.762 #36716 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 15:32:02.762 #36716 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @283ms
+INFO  2026-08-20 15:32:02.763 #36716 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1880ms pid=36716 v=4.0.6
+INFO  2026-08-20 15:32:22.832 #36716 [-Thread-4][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 15:32:22.834 #36716 [-Thread-4][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 15:32:23.920 #30068 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 15:32:24.671 #30068 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 15:32:25.164 #30068 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 15:32:25.164 #30068 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @150ms
+INFO  2026-08-20 15:32:25.166 #30068 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1435ms pid=30068 v=4.0.6
+INFO  2026-08-20 15:32:57.505 #30068 [-Thread-4][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 15:32:57.508 #30068 [-Thread-4][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 15:32:58.671 #35144 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 15:32:59.475 #35144 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 15:32:59.999 #35144 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 15:33:00.000 #35144 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @183ms
+INFO  2026-08-20 15:33:00.000 #35144 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1531ms pid=35144 v=4.0.6
+INFO  2026-08-20 15:52:15.453 #35144 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-20 15:52:15.558 #35144 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-20 15:52:28.315 #35144 [-smarthttp-16][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 17:06:09.639 #35144 [-Thread-4][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 17:06:09.666 #35144 [-Thread-4][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 17:06:13.690 #31608 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 17:06:14.837 #31608 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 17:06:15.926 #31608 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 17:06:15.927 #31608 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @364ms
+INFO  2026-08-20 17:06:15.928 #31608 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2462ms pid=31608 v=4.0.6
+INFO  2026-08-20 17:07:05.966 #31608 [-smarthttp-2][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-20 17:07:05.999 #31608 [-smarthttp-2][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-20 17:07:17.031 #31608 [-smarthttp-8][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 17:07:18.093 #31608 [-smarthttp-8][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 17:07:33.369 #31608 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-20 17:07:33.377 #31608 [-smarthttp-15][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-20 17:08:02.018 #31608 [-Thread-4][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 17:08:02.019 #31608 [-Thread-4][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 17:08:04.244 #29844 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 17:08:04.692 #29844 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 17:08:04.692 #29844 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @211ms
+INFO  2026-08-20 17:08:04.693 #29844 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=633ms pid=29844 v=4.0.6
+INFO  2026-08-20 17:08:25.872 #29844 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 17:08:25.875 #29844 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 17:08:27.949 #38124 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 17:08:28.386 #38124 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 17:08:28.386 #38124 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @203ms
+INFO  2026-08-20 17:08:28.387 #38124 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=641ms pid=38124 v=4.0.6
+INFO  2026-08-20 17:14:31.028 #38124 [-Thread-0][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 17:14:31.051 #38124 [-Thread-0][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 17:14:32.718 #37836 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 17:14:33.635 #37836 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 17:14:34.343 #37836 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 17:14:34.344 #37836 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @273ms
+INFO  2026-08-20 17:14:34.344 #37836 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1824ms pid=37836 v=4.0.6
+INFO  2026-08-20 17:15:49.710 #37836 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 17:15:49.715 #37836 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 17:15:52.503 #8052 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 17:15:53.920 #8052 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 17:15:54.975 #8052 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 17:15:54.975 #8052 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @258ms
+INFO  2026-08-20 17:15:54.976 #8052 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2759ms pid=8052 v=4.0.6
+INFO  2026-08-20 17:17:00.371 #8052 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 17:17:00.373 #8052 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 17:17:01.532 #13692 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 17:17:02.284 #13692 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 17:17:02.837 #13692 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 17:17:02.838 #13692 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @174ms
+INFO  2026-08-20 17:17:02.839 #13692 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1472ms pid=13692 v=4.0.6
+INFO  2026-08-20 17:32:33.668 #13692 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 17:32:33.685 #13692 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 17:32:36.013 #11200 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 17:32:36.861 #11200 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 17:32:37.398 #11200 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 17:32:37.398 #11200 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @170ms
+INFO  2026-08-20 17:32:37.399 #11200 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1572ms pid=11200 v=4.0.6
+INFO  2026-08-20 17:55:25.917 #19468 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 17:55:27.606 #19468 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 17:55:28.658 #19468 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 17:55:28.658 #19468 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @381ms
+INFO  2026-08-20 17:55:28.659 #19468 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=3144ms pid=19468 v=4.0.6
+INFO  2026-08-20 17:57:24.912 #19468 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 17:57:24.916 #19468 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 17:57:26.880 #8156 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 17:57:28.372 #8156 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 17:57:29.248 #8156 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 17:57:29.249 #8156 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @305ms
+INFO  2026-08-20 17:57:29.251 #8156 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2767ms pid=8156 v=4.0.6
+INFO  2026-08-20 17:57:53.920 #8156 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 17:57:53.923 #8156 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 17:58:06.756 #2032 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 17:58:08.539 #2032 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 17:58:09.981 #2032 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 17:58:09.981 #2032 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @834ms
+INFO  2026-08-20 17:58:09.982 #2032 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=3621ms pid=2032 v=4.0.6
+INFO  2026-08-20 19:17:26.452 #21172 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 19:17:27.726 #21172 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 19:17:28.225 #21172 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 19:17:28.225 #21172 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @86ms
+INFO  2026-08-20 19:17:28.226 #21172 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=2060ms pid=21172 v=4.0.6
+INFO  2026-08-20 19:24:23.436 #21172 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 19:24:23.444 #21172 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 19:24:25.996 #12012 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 19:24:26.798 #12012 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 19:24:27.384 #12012 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 19:24:27.384 #12012 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @228ms
+INFO  2026-08-20 19:24:27.385 #12012 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1588ms pid=12012 v=4.0.6
+INFO  2026-08-20 19:26:40.869 #12012 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 19:26:40.872 #12012 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 19:26:42.053 #14724 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 19:26:42.796 #14724 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 19:26:43.326 #14724 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 19:26:43.326 #14724 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @175ms
+INFO  2026-08-20 19:26:43.327 #14724 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1445ms pid=14724 v=4.0.6
+INFO  2026-08-20 19:29:19.240 #14724 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 19:29:19.242 #14724 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 19:32:49.849 #21900 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 19:32:50.690 #21900 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 19:32:51.338 #21900 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 19:32:51.338 #21900 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @171ms
+INFO  2026-08-20 19:32:51.338 #21900 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1663ms pid=21900 v=4.0.6
+INFO  2026-08-20 19:44:20.102 #21900 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 19:44:20.104 #21900 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 19:44:21.260 #21780 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 19:44:22.053 #21780 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 19:44:22.662 #21780 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 19:44:22.662 #21780 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @171ms
+INFO  2026-08-20 19:44:22.662 #21780 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1570ms pid=21780 v=4.0.6
+INFO  2026-08-20 20:03:55.914 #21780 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 20:03:55.916 #21780 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 20:03:59.426 #3548 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 20:04:00.216 #3548 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 20:04:00.811 #3548 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 20:04:00.812 #3548 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @185ms
+INFO  2026-08-20 20:04:00.812 #3548 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1571ms pid=3548 v=4.0.6
+INFO  2026-08-20 20:04:35.787 #3548 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 20:04:35.789 #3548 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 20:04:47.078 #2188 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 20:04:47.834 #2188 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 20:04:48.422 #2188 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 20:04:48.422 #2188 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @171ms
+INFO  2026-08-20 20:04:48.423 #2188 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1517ms pid=2188 v=4.0.6
+INFO  2026-08-20 20:25:25.368 #2188 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 20:25:25.370 #2188 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 20:25:28.066 #17416 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 20:25:28.795 #17416 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 20:25:29.352 #17416 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 20:25:29.352 #17416 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @160ms
+INFO  2026-08-20 20:25:29.353 #17416 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1455ms pid=17416 v=4.0.6
+INFO  2026-08-20 20:25:56.416 #17416 [-smarthttp-8][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-20 20:25:56.432 #17416 [-smarthttp-8][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-20 20:26:09.038 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+WARN  2026-08-20 20:50:17.421 #17416 [-smarthttp-14][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+java.lang.IllegalArgumentException: tenantId
+	at yh.hotplugin.security.tenant.TenantContext.open(TenantContext.java:19)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:170)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$3(SecureSystemSolonPlugin.java:119)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:25)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 20:50:17.460 #17416 [-smarthttp-14][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+java.lang.IllegalArgumentException: tenantId
+	at yh.hotplugin.security.tenant.TenantContext.open(TenantContext.java:19)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:170)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$3(SecureSystemSolonPlugin.java:119)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:25)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 20:50:17.464 #17416 [-smarthttp-14][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+java.lang.IllegalArgumentException: tenantId
+	at yh.hotplugin.security.tenant.TenantContext.open(TenantContext.java:19)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:170)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$3(SecureSystemSolonPlugin.java:119)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:25)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+INFO  2026-08-20 21:13:39.021 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-20 21:13:39.024 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-20 21:13:39.080 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-2} inited
+INFO  2026-08-20 21:14:49.721 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-2} closing ...
+INFO  2026-08-20 21:14:49.722 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-2} closed
+INFO  2026-08-20 21:14:50.278 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 21:49:34.700 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-20 21:49:34.729 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-20 21:49:36.334 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 21:55:41.125 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-20 21:55:41.148 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-20 21:55:42.839 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 22:09:23.573 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-20 22:09:23.578 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-20 22:09:24.148 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 22:16:09.909 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-20 22:16:09.918 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-20 22:16:10.477 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 22:25:18.044 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-20 22:25:18.048 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-20 22:25:18.593 #17416 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 23:02:57.892 #17416 [-Thread-8][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Has Stopped (smart http 2.5/4.0.6)
+INFO  2026-08-20 23:02:57.894 #17416 [-Thread-8][*][o.noear.solon.Solon]: 
+App: Stopped
+INFO  2026-08-20 23:03:00.794 #22540 [-main][*][o.noear.solon.Solon]: 
+App: Start loading
+INFO  2026-08-20 23:03:01.662 #22540 [-main][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+INFO  2026-08-20 23:03:02.327 #22540 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+solon.connector:main: smarthttp: Started ServerConnector@{HTTP/1.1,[http/1.1]}{http://localhost:8080}
+INFO  2026-08-20 23:03:02.327 #22540 [-main][*][o.n.s.s.s.i.SmHttpPlugin]: 
+Server:main: smarthttp: Started (smart http 2.5/4.0.6) @174ms
+INFO  2026-08-20 23:03:02.330 #22540 [-main][*][o.noear.solon.Solon]: 
+App: End loading elapsed=1752ms pid=22540 v=4.0.6
+INFO  2026-08-20 23:03:36.138 #22540 [-smarthttp-8][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+INFO  2026-08-20 23:03:36.153 #22540 [-smarthttp-8][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closed
+INFO  2026-08-20 23:03:49.008 #22540 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited
+WARN  2026-08-20 23:48:53.962 #22540 [-smarthttp-14][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+com.fasterxml.jackson.core.JsonParseException: Unexpected character ('\' (code 92)): was expecting double-quote to start field name
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 2]
+	at com.fasterxml.jackson.core.JsonParser._constructReadException(JsonParser.java:2648)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:685)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleOddName(ReaderBasedJsonParser.java:1910)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextToken(ReaderBasedJsonParser.java:709)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:177)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:342)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4905)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3848)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3816)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:166)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$3(SecureSystemSolonPlugin.java:119)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:25)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+WARN  2026-08-20 23:49:42.124 #22540 [-smarthttp-14][*][o.n.solon.SolonApp]: 
+SolonApp tryHandle failed!
+com.fasterxml.jackson.core.JsonParseException: Unexpected character ('\' (code 92)): was expecting double-quote to start field name
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 2]
+	at com.fasterxml.jackson.core.JsonParser._constructReadException(JsonParser.java:2648)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:685)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleOddName(ReaderBasedJsonParser.java:1910)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextToken(ReaderBasedJsonParser.java:709)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:177)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:342)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4905)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3848)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3816)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.login(SecureSystemSolonPlugin.java:166)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.lambda$registerRoutes$3(SecureSystemSolonPlugin.java:119)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:25)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+INFO  2026-08-20 23:52:57.205 #22540 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} closing ...
+ERROR 2026-08-20 23:52:57.207 #22540 [-Druid-ConnectionPool-Create-2114041641][*][c.a.d.p.DruidDataSource]: 
+create connection thread interrupted, url: jdbc:mysql://localhost:3307/yhadmin?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1638)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2769)
+WARN  2026-08-20 23:52:57.207 #22540 [-smarthttp-14][*][o.n.s.c.PluginEntity]: 
+The plugin stop failed: yh.hotplugin.system.integration.SecureSystemSolonPlugin
+java.lang.NoClassDefFoundError: com/alibaba/druid/pool/PreparedStatementPool$LRUCache
+	at com.alibaba.druid.pool.PreparedStatementPool.<init>(PreparedStatementPool.java:47)
+	at com.alibaba.druid.pool.DruidConnectionHolder.getStatementPool(DruidConnectionHolder.java:319)
+	at com.alibaba.druid.pool.DruidDataSource.close(DruidDataSource.java:2121)
+	at yh.hotplugin.system.infrastructure.mybatis.MybatisExecutor.close(MybatisExecutor.java:149)
+	at yh.hotplugin.system.infrastructure.JdbcAuthorizationRepository.close(JdbcAuthorizationRepository.java:187)
+	at yh.hotplugin.system.integration.SecureSystemSolonPlugin.stop(SecureSystemSolonPlugin.java:370)
+	at org.noear.solon.core.PluginEntity.stop(PluginEntity.java:149)
+	at org.noear.solon.hotplug.PluginPackage.stop(PluginPackage.java:173)
+	at org.noear.solon.hotplug.PluginManager.stop(PluginManager.java:154)
+	at yh.hotplugin.infrastructure.SolonPluginRuntime.stop(SolonPluginRuntime.java:44)
+	at yh.hotplugin.application.PluginApplicationService.stop(PluginApplicationService.java:132)
+	at yh.hotplugin.interfaces.PluginHttpApi.lambda$registerRoutes$10(PluginHttpApi.java:54)
+	at yh.hotplugin.interfaces.PluginHttpApi.execute(PluginHttpApi.java:102)
+	at yh.hotplugin.interfaces.PluginHttpApi.lambda$registerRoutes$11(PluginHttpApi.java:54)
+	at org.noear.solon.core.route.RouterHandler.handleMain(RouterHandler.java:51)
+	at org.noear.solon.core.route.RouterHandler.handle1(RouterHandler.java:71)
+	at org.noear.solon.core.route.RouterInterceptorChainImpl.doIntercept(RouterInterceptorChainImpl.java:54)
+	at org.noear.solon.core.ChainManager.doRouterIntercept(ChainManager.java:226)
+	at org.noear.solon.core.route.RouterHandler.handle(RouterHandler.java:103)
+	at org.noear.solon.core.handle.HandlerPipeline.handle(HandlerPipeline.java:53)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:51)
+	at yh.hotplugin.security.HostSecurityFilter.doFilter(HostSecurityFilter.java:52)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.logging.integration.MdcClearFilter.doFilter(MdcClearFilter.java:33)
+	at org.noear.solon.core.handle.FilterChainImpl.doFilter(FilterChainImpl.java:49)
+	at org.noear.solon.core.ChainManager.doFilter(ChainManager.java:119)
+	at org.noear.solon.SolonApp.lambda$tryHandle$6(SolonApp.java:580)
+	at org.noear.solon.util.ScopeLocalJdk8.with(ScopeLocalJdk8.java:58)
+	at org.noear.solon.core.handle.Context.currentWith(Context.java:66)
+	at org.noear.solon.SolonApp.tryHandle(SolonApp.java:575)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handleDo(SmHttpContextHandler.java:123)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.handle0(SmHttpContextHandler.java:101)
+	at org.noear.solon.server.smarthttp.http.SmHttpContextHandler.lambda$handle$0(SmHttpContextHandler.java:86)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ClassNotFoundException: com.alibaba.druid.pool.PreparedStatementPool$LRUCache
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:429)
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:587)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.noear.solon.core.AppClassLoader.loadClass(AppClassLoader.java:209)
+	... 36 common frames omitted
+Caused by: java.util.zip.ZipException: ZipFile invalid LOC header (bad signature)
+	at java.base/java.util.zip.ZipFile$ZipFileInputStream.initDataOffset(ZipFile.java:920)
+	at java.base/java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:931)
+	at java.base/java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:448)
+	at java.base/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.base/jdk.internal.loader.Resource.getBytes(Resource.java:126)
+	at java.base/jdk.internal.loader.URLClassPath$JarLoader$2.getBytes(URLClassPath.java:893)
+	at java.base/java.net.URLClassLoader.defineClass(URLClassLoader.java:519)
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:427)
+	... 42 common frames omitted
+INFO  2026-08-20 23:52:57.903 #22540 [-smarthttp-14][*][c.a.d.p.DruidDataSource]: 
+{dataSource-1} inited

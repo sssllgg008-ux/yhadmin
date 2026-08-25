@@ -1,0 +1,1 @@
+package yh.hotplugin.security.api; import java.util.Set; public interface PermissionProvider {LoginResult login(LoginCommand c);SecurityPrincipal principal(String token);void logout(SecurityPrincipal p);boolean isAllowed(SecurityPrincipal p,String permission);Set<String> permissions(SecurityPrincipal p);Set<String> roles(SecurityPrincipal p);}
